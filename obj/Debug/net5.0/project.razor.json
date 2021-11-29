@@ -15619,6 +15619,11 @@
   "RootNamespace": "MockProject",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\MockProject\\Views\\Admin\\AdminPage.cshtml",
+      "TargetPath": "Views\\Admin\\AdminPage.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\cabeo\\Desktop\\MockProject\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"

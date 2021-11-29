@@ -39,3 +39,4 @@ C:\Users\cabeo\Desktop\MockProject\obj\Debug\net5.0\MockProject.pdb
 C:\Users\cabeo\Desktop\MockProject\obj\Debug\net5.0\MockProject.genruntimeconfig.cache
 C:\Users\cabeo\Desktop\MockProject\obj\Debug\net5.0\MockProject.csproj.CopyComplete
 C:\Users\cabeo\Desktop\MockProject\obj\Debug\net5.0\Razor\Views\Login\LoginPage.cshtml.g.cs
+C:\Users\cabeo\Desktop\MockProject\obj\Debug\net5.0\Razor\Views\Admin\AdminPage.cshtml.g.cs

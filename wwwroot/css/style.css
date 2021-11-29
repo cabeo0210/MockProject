@@ -334,7 +334,7 @@ section {
   top: 0;
   height: 100%;
   width: 100%;
-  background-image: url("../img/background.jpg");
+  background-image: url("/img/background.jpg");
   background-attachment: fixed;
   background-size: cover;
   background-position: left;

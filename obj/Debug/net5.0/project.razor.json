@@ -15649,6 +15649,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\MockProject\\Views\\Login\\LoginPage.cshtml",
+      "TargetPath": "Views\\Login\\LoginPage.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\cabeo\\Desktop\\MockProject\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"

@@ -1,6 +1,6 @@
 @using Microsoft.AspNetCore.Identity
 @using App.Models
-
+@model App.Models.Bookings.Booking
 @inject SignInManager<AppUser> SignInManager
 @inject UserManager<AppUser> UserManager
 
@@ -17,6 +17,17 @@
 </head>
 
 <body>
+
+@if (SignInManager.IsSignedIn(User))
+            {
+                
+                  ViewBag.Username =  @UserManager.GetUserName(User);
+
+                
+            }
+
+
+
     <section class="wrap">
         <section class="headerr">
             @* <div class="headerr-left"> *@
@@ -39,20 +50,57 @@
                     </ul>
                 </form>
             }
-            @* <div class="headerr-name">
-                Mio
-                </div>
-                <i class="far fa-user"></i> *@
-            @* </div> *@
-            @* <div class="headerr-right">
-                <i class="far fa-envelope"></i>
-                <a href="">Logout</a>
-                </div> *@
+            
         </section>
         <div class="search-bar">
             <input type="text" class="search" placeholder="Quán gần bạn ... km">
             <i class="fas fa-search-location"></i>
         </div>
     </section>
+    <div class="row">
+    <div class="col-md-4">
+        <form asp-area="Booking"asp-controller="Booking" asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="UserName" class="control-label"></label>
+                 
+            @if (SignInManager.IsSignedIn(User))
+            {
+                <input asp-for="UserName" value="@ViewBag.Username"  class="form-control" />
+            }
+            else{
+                <input asp-for="UserName"  class="form-control" />
+            }
+                @* <input asp-for="UserName" value=""  class="form-control" /> *@
+            
+                
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ClientSlot" class="control-label"></label>
+                <input asp-for="ClientSlot" class="form-control" />
+                <span asp-validation-for="ClientSlot" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BookingSlot" class="control-label"></label>
+                <input asp-for="BookingSlot" class="form-control" />
+                <span asp-validation-for="BookingSlot" class="text-danger"></span>
+            </div>
+             <div class="form-group">
+                <label asp-for="Branch" class="control-label"></label>
+                <input asp-for="Branch" class="form-control" />
+                <span asp-validation-for="Branch" class="text-danger"></span>
+            </div> 
+            <div class="form-group">
+                <label asp-for="UserPhone" class="control-label"></label>
+                <input asp-for="UserPhone" class="form-control" />
+                <span asp-validation-for="UserPhone" class="text-danger"></span>
+            </div>            
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
     @* <partial name="_SearchPage" /> *@
 </body>

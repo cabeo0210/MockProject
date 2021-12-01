@@ -4,6 +4,7 @@ using App.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,10 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace App.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20211201100132_Booking")]
+    partial class Booking
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -94,9 +96,6 @@ namespace App.Migrations
                     b.ToTable("Users", (string)null);
                 });
 
-<<<<<<< HEAD
-            modelBuilder.Entity("App.Models.Branch", b =>
-=======
             modelBuilder.Entity("App.Models.Bookings.Booking", b =>
                 {
                     b.Property<int>("Id")
@@ -118,19 +117,12 @@ namespace App.Migrations
                     b.Property<DateTime>("CreateDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<string>("UserName")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("UserPhone")
-                        .HasColumnType("nvarchar(max)");
-
                     b.HasKey("Id");
 
                     b.ToTable("Bookings");
                 });
 
             modelBuilder.Entity("App.Models.Branchs.Branch", b =>
->>>>>>> 1be77d52be5156ae07206f951b11a366439c787e
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -159,49 +151,7 @@ namespace App.Migrations
 
                     b.HasKey("Id");
 
-<<<<<<< HEAD
-                    b.ToTable("Branch");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            Address = "60 D1",
-                            BranchName = "Agency 1",
-                            CreateDate = new DateTime(2021, 12, 6, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Distance = 5,
-                            SlotTable = 2
-                        },
-                        new
-                        {
-                            Id = 2,
-                            Address = "60 D2",
-                            BranchName = "Agency 2",
-                            CreateDate = new DateTime(2021, 12, 5, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Distance = 4,
-                            SlotTable = 3
-                        },
-                        new
-                        {
-                            Id = 3,
-                            Address = "60 D3",
-                            BranchName = "Agency 3",
-                            CreateDate = new DateTime(2021, 12, 4, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Distance = 4,
-                            SlotTable = 5
-                        },
-                        new
-                        {
-                            Id = 4,
-                            Address = "60 D4",
-                            BranchName = "Agency 4",
-                            CreateDate = new DateTime(2021, 12, 3, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            Distance = 3,
-                            SlotTable = 10
-                        });
-=======
                     b.ToTable("Branchs");
->>>>>>> 1be77d52be5156ae07206f951b11a366439c787e
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>

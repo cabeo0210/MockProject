@@ -1,9 +1,11 @@
 @{
     ViewData["Title"] = "Admin Page";
+
+    
 }
 @using Microsoft.AspNetCore.Identity
 @using App.Models
-
+@model IEnumerable<App.Models.Bookings.Booking>
 @inject SignInManager<AppUser> SignInManager
 @inject UserManager<AppUser> UserManager
 
@@ -161,6 +163,12 @@
                         Dashboard
                     </span>
                 </a>
+                <a class="sidebar-nav-link active"  asp-area="Branch" asp-controller="Branch" asp-action="Index"><div>
+                        <i class="fas fa-angry"></i>
+                    </div>
+                    <span>
+                        DS Chi Nhánh
+                    </span></a>
             </li>
 
         </ul>
@@ -211,7 +219,7 @@
                 <div class="card">
                     <div class="card-header">
                         <h3>
-                            Table
+                             Booking
                         </h3>
                         <i class="fas fa-ellipsis-h"></i>
                     </div>
@@ -220,49 +228,44 @@
                             <thead>
                                 <tr>
                                     <th>#</th>
-                                    <th>Agency</th>
-                                    <th>Address</th>
-                                    <th>Booking</th>
-                                    <th>Create Date</th>
+                                    <th>Họ Tên</th>
+                                    <th>Số Lượng</th>
+                                    <th>Số Bàn</th>
+                                    <th>Chi Nhánh</th>
+                                   
+                                    <th>Số Điện Thoại</th>
+                                    <th>Ngày Tạo</th>
                                 </tr>
                             </thead>
                             <tbody>
-                                <tr>
-                                    <td>1</td>
-                                    <td>Agency 1</td>
-                                    <td>61 D1</td>
-                                    <td>
-                                        <span class="dot">
-
-                                            5
-                                        </span>
-                                    </td>
-                                    <td>25/11/2021</td>
-                                </tr>
-                                <tr>
-                                    <td>2</td>
-                                    <td>Agency 2</td>
-                                    <td>60 D2</td>
-                                    <td>
-                                        <span class="dot">
-
-                                            10
-                                        </span>
-                                    </td>
-                                    <td>28/11/2021</td>
-                                </tr>
-                                <tr>
-                                    <td>3</td>
-                                    <td>Agency 3</td>
-                                    <td>62 D3</td>
-                                    <td>
-                                        <span class="dot">
-
-                                            15
-                                        </span>
-                                    </td>
-                                    <td>30/11/2021</td>
-                                </tr>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClientSlot)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookingSlot)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.Branch)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreateDate)
+            </td>
+            
+            
+        </tr>
+}
+                                
 
                             </tbody>
                         </table>
@@ -276,6 +279,9 @@
                             Customer List
                         </h3>
                         <i class="fas fa-ellipsis-h"></i>
+                    </div>
+                    <div class="card-body">
+                      @* <partial name="_ListUser"/> *@
                     </div>
                 </div>
             </div>

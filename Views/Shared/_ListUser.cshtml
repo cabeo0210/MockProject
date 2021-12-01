@@ -1,0 +1,7 @@
+@model IEnumerable<App.Models.Bookings.Booking>
+
+    @foreach (var item in Model)
+    {
+        Html.DisplayFor(modelItem => item.UserName);
+    }
+

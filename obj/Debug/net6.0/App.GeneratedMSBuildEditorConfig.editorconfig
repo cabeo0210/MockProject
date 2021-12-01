@@ -15,6 +15,38 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Project-C#\App
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Project-C\#/App/Areas/Booking/Views/Booking/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQm9va2luZ1xWaWV3c1xCb29raW5nXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project-C\#/App/Areas/Booking/Views/Booking/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQm9va2luZ1xWaWV3c1xCb29raW5nXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project-C\#/App/Areas/Booking/Views/Booking/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQm9va2luZ1xWaWV3c1xCb29raW5nXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project-C\#/App/Areas/Booking/Views/Booking/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQm9va2luZ1xWaWV3c1xCb29raW5nXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project-C\#/App/Areas/Booking/Views/Booking/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQm9va2luZ1xWaWV3c1xCb29raW5nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project-C\#/App/Areas/Booking/Views/Booking/_Layout_1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQm9va2luZ1xWaWV3c1xCb29raW5nXF9MYXlvdXRfMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project-C\#/App/Areas/Booking/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQm9va2luZ1xWaWV3c1xfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project-C\#/App/Areas/Booking/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQm9va2luZ1xWaWV3c1xfVmlld1N0YXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Project-C\#/App/Areas/Branch/Views/Branch/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQnJhbmNoXFZpZXdzXEJyYW5jaFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -251,6 +283,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfMS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/Project-C\#/App/Views/Shared/_ListUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MaXN0VXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Project-C\#/App/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -277,6 +313,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Project-C\#/App/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Project-C\#/App/Views/Users/UserPage copy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcVXNlclBhZ2UgY29weS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Project-C\#/App/Views/Users/UserPage.cshtml]

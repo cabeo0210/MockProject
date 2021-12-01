@@ -24,7 +24,8 @@ namespace App.Controllers
         [Route("/admin/")]
         public IActionResult AdminPage()
         {
-            return View();
+            var bookingList = _context.Bookings.ToList();
+            return View(bookingList);
         }
 
         public IActionResult GetListBranch()

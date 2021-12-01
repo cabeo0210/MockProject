@@ -16363,6 +16363,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Project-C#\\App\\Areas\\Booking\\Views\\Booking\\Create.cshtml",
+      "TargetPath": "Areas\\Booking\\Views\\Booking\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\ExternalLoginConfirmation.cshtml",
       "TargetPath": "Areas\\Identity\\Views\\Account\\ExternalLoginConfirmation.cshtml",
       "FileKind": "mvc"
@@ -16375,6 +16380,11 @@
     {
       "FilePath": "d:\\Project-C#\\App\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Project-C#\\App\\Views\\Users\\UserPage copy.cshtml",
+      "TargetPath": "Views\\Users\\UserPage copy.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16418,6 +16428,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Project-C#\\App\\Areas\\Booking\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Booking\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\Register.cshtml",
       "TargetPath": "Areas\\Identity\\Views\\Account\\Register.cshtml",
       "FileKind": "mvc"
@@ -16445,6 +16460,11 @@
     {
       "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\_ViewImports.cshtml",
       "TargetPath": "Areas\\Identity\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Project-C#\\App\\Areas\\Booking\\Views\\Booking\\_Layout_1.cshtml",
+      "TargetPath": "Areas\\Booking\\Views\\Booking\\_Layout_1.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16583,13 +16603,33 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Project-C#\\App\\Areas\\Booking\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Booking\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Project-C#\\App\\Views\\Shared\\_ListUser.cshtml",
+      "TargetPath": "Views\\Shared\\_ListUser.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\VerifyAuthenticatorCode.cshtml",
       "TargetPath": "Areas\\Identity\\Views\\Account\\VerifyAuthenticatorCode.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Project-C#\\App\\Areas\\Booking\\Views\\Booking\\Edit.cshtml",
+      "TargetPath": "Areas\\Booking\\Views\\Booking\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\User\\AddClaim.cshtml",
       "TargetPath": "Areas\\Identity\\Views\\User\\AddClaim.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Project-C#\\App\\Areas\\Booking\\Views\\Booking\\Index.cshtml",
+      "TargetPath": "Areas\\Booking\\Views\\Booking\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16600,6 +16640,11 @@
     {
       "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Role\\Delete.cshtml",
       "TargetPath": "Areas\\Identity\\Views\\Role\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Project-C#\\App\\Areas\\Booking\\Views\\Booking\\Details.cshtml",
+      "TargetPath": "Areas\\Booking\\Views\\Booking\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16620,6 +16665,11 @@
     {
       "FilePath": "d:\\Project-C#\\App\\Areas\\Database\\Views\\_ViewImports.cshtml",
       "TargetPath": "Areas\\Database\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Project-C#\\App\\Areas\\Booking\\Views\\Booking\\Delete.cshtml",
+      "TargetPath": "Areas\\Booking\\Views\\Booking\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {

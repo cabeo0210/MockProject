@@ -23,6 +23,13 @@ namespace App.Models.Bookings
         [Display(Name = "Chi Nhánh")]
         public string Branch { get; set; }
 
+        [Required(ErrorMessage = "Phải nhập họ tên")]
+        [Display(Name = "Họ Tên")]
+        public string UserName { get; set; }
+
+        [Display(Name = "Số Điện Thoại")]
+        public string UserPhone { get; set; }
+
         [Display(Name = "Ngày Tạo")]
         public DateTime CreateDate { get; set; }
     }

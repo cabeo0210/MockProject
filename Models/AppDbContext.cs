@@ -32,6 +32,6 @@ namespace App.Models
         }
         public DbSet<Branch> Branchs { get; set; }
         public DbSet<Booking> Bookings { get; set; }
-        // public DbSet<Agency> agency { set; get; }
+
     }
 }

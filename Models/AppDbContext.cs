@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-
+using System;
 namespace App.Models
 {
     public class AppDbContext : IdentityDbContext<AppUser>
@@ -14,6 +14,7 @@ namespace App.Models
         {
             base.OnConfiguring(builder);
         }
+       
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
@@ -28,7 +29,7 @@ namespace App.Models
             }
 
         }
-
+       
         // public DbSet<Agency> agency { set; get; }
     }
 }

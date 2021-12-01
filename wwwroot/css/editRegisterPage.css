@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,600&display=swap");
+.title-text {
+  font-family: "Poppins", sans-serif;
+  color: #000;
+}
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.col-md-4 .title-text {
+  margin-left: 120px;
+}
+.edit-btn {
+  background: none;
+  border: 2px solid;
+  font: inherit;
+  line-height: 1;
+  margin: 0.5em;
+  padding: 1em 2em;
+}
+.closer:hover {
+  background-color: black;
+}

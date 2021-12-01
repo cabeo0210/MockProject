@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\cabeo\\Desktop\\MockProject\\MockProject.csproj",
+  "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\App.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15616,50 +15616,50 @@
     ],
     "CSharpLanguageVersion": 900
   },
-  "RootNamespace": "MockProject",
+  "RootNamespace": "App",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\cabeo\\Desktop\\MockProject\\Views\\Admin\\AdminPage.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Admin\\AdminPage.cshtml",
       "TargetPath": "Views\\Admin\\AdminPage.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\cabeo\\Desktop\\MockProject\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\cabeo\\Desktop\\MockProject\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\cabeo\\Desktop\\MockProject\\Views\\Home\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\cabeo\\Desktop\\MockProject\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\cabeo\\Desktop\\MockProject\\Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\cabeo\\Desktop\\MockProject\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\cabeo\\Desktop\\MockProject\\Views\\Login\\LoginPage.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Login\\LoginPage.cshtml",
       "TargetPath": "Views\\Login\\LoginPage.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\cabeo\\Desktop\\MockProject\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     }

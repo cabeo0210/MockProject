@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using MockProject.Models;
+using App.Models;
 
-namespace MockProject.Controllers
+namespace App.Controllers
 {
     public class HomeController : Controller
     {

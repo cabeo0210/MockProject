@@ -50,10 +50,12 @@
                     <a href="#our-menu" class="btn btn-default">our menu</a>
                     <br>
                     <br>
-                    <a class=" btn btn-default" asp-area="" asp-controller="Login" asp-action="LoginPage"> Login </a>
+                    @* <a class=" btn btn-default" asp-area="" asp-controller="Login" asp-action="LoginPage"> Login </a>
+                        <br> *@
+                    <partial name="_LoginPartial" />
                     <br>
-                    <br>
-                    <a class=" btn btn-default" asp-area="" asp-controller="Admin" asp-action="AdminPage"> Admin </a>
+                    @* <a class=" btn btn-default" asp-area="" asp-controller="Admin" asp-action="AdminPage"> Admin </a>
+                    *@
                 </div>
             </div>
         </div>

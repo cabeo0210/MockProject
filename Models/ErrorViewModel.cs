@@ -1,6 +1,6 @@
 using System;
 
-namespace MockProject.Models
+namespace App.Models
 {
     public class ErrorViewModel
     {

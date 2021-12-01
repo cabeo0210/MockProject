@@ -31,7 +31,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "MockProject/1.0.0": {
+      "App/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
@@ -318,10 +318,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "MockProject.dll": {}
+          "App.dll": {}
         },
         "compile": {
-          "MockProject.dll": {}
+          "App.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -2025,7 +2025,7 @@
     }
   },
   "libraries": {
-    "MockProject/1.0.0": {
+    "App/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

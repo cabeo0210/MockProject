@@ -17,6 +17,12 @@
   width: 90%;
   margin: auto;
 }
+.navbar-cen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
 .headerr form {
   display: flex;
   align-items: center;
@@ -26,7 +32,20 @@
   font-size: 30px;
 }
 .logout-edit {
-  top: -5px;
+  margin-left: 20px;
+  border-radius: 5px;
+  font-size: 20px;
+}
+.logout-edit:hover {
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.11);
+}
+.nav-item {
+  list-style: none;
+}
+.hi-titile {
+  text-decoration: none;
+  color: #000;
 }
 .headerr-left {
   display: flex;

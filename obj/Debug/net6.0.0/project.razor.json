@@ -16453,6 +16453,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Shared\\_RegisterLayout.cshtml",
+      "TargetPath": "Views\\Shared\\_RegisterLayout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Role\\AddRoleClaim.cshtml",
       "TargetPath": "Areas\\Identity\\Views\\Role\\AddRoleClaim.cshtml",
       "FileKind": "mvc"

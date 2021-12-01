@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hm2XxFx11kIObsbknbBwrD3TEtkNW7WeUez5+KJFYG8=",
+  "Hash": "Alsu0EwC3juNHQDh9K6tAHjKhyHEOewMNg77DkssUFQ=",
   "Source": "App",
   "BasePath": "_content/App",
   "Mode": "Default",
@@ -1156,6 +1156,23 @@
       "OriginalItemSpec": "wwwroot\\css\\styleLogin.css"
     },
     {
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\css\\userPage.css",
+      "SourceId": "App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
+      "BasePath": "_content/App",
+      "RelativePath": "css/userPage.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\userPage.css"
+    },
+    {
       "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\favicon.ico",
       "SourceId": "App",
       "SourceType": "Discovered",
@@ -1732,6 +1749,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\bg1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\bgg.jpg",
+      "SourceId": "App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
+      "BasePath": "_content/App",
+      "RelativePath": "img/bgg.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\bgg.jpg"
     },
     {
       "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\footer-bg.jpg",

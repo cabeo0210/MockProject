@@ -1,8 +1,13 @@
 ﻿@model DisplayRecoveryCodesViewModel
 @{
+
     ViewData["Title"] = "Mã phục hồi";
 }
 
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
 <h1>@ViewData["Title"].</h1>
 <p class="text-success">@ViewData["StatusMessage"]</p>
 
@@ -13,10 +18,12 @@
     <dl class="dl-horizontal">
         <dt>Codes:</dt>
         @foreach (var code in Model.Codes)
+
         {
-        <dd>
-            <text>@code</text>
-        </dd>
+            <dd>
+                <text>@code</text>
+            </dd>
+
         }
     </dl>
 </div>

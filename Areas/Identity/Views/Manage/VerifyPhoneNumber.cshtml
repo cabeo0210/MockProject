@@ -1,13 +1,21 @@
 ﻿@model VerifyPhoneNumberViewModel
 @{
+
+
+
     ViewData["Title"] = "Xác nhận số điện thoại";
 }
 
-<h1>@ViewData["Title"].</h1>
+<head>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<h1>@ViewData["Title"]</h1>
 
-<form asp-controller="Manage" asp-action="VerifyPhoneNumber" asp-route-returnurl="@ViewData["ReturnUrl"]" method="post" class="form-horizontal" role="form">
+<form asp-controller="Manage" asp-action="VerifyPhoneNumber" asp-route-returnurl="@ViewData["ReturnUrl"]" method="post"
+    class="form-horizontal" role="form">
     <input asp-for="PhoneNumber" type="hidden" />
-    <h4>Thêm số điện thoại.</h4>
+    <h4>Thêm số điện thoại</h4>
     <h5>@ViewData["Status"]</h5>
     <hr />
     <div asp-validation-summary="ModelOnly" class="text-danger"></div>
@@ -26,5 +34,5 @@
 </form>
 
 @section Scripts {
-    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+@{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
 }

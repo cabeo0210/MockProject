@@ -311,7 +311,9 @@ namespace App.Areas.Identity.Controllers
                         if (resultLink.Succeeded)
                         {
                             await _signInManager.SignInAsync(registeredUser, isPersistent: false);
-                            return LocalRedirect(returnUrl);
+                            // return LocalRedirect(returnUrl);
+                            // return RedirectToAction("Users", "UserPage", new { area = "" });
+                            return RedirectToRoute(new { controller = "Users", action = "UserPage" });
                         }
                     }
                     else
@@ -351,7 +353,9 @@ namespace App.Areas.Identity.Controllers
 
                         await _signInManager.SignInAsync(newUser, isPersistent: false);
 
-                        return LocalRedirect(returnUrl);
+                        // return LocalRedirect(returnUrl);
+                        // return RedirectToAction("Users", "UserPage", new { area = "" });
+                        return RedirectToRoute(new { controller = "Users", action = "UserPage" });
 
                     }
                     else
@@ -375,7 +379,9 @@ namespace App.Areas.Identity.Controllers
                         // Update any authentication tokens as well
                         await _signInManager.UpdateExternalAuthenticationTokensAsync(info);
 
-                        return LocalRedirect(returnUrl);
+                        // return LocalRedirect(returnUrl);
+                        // return RedirectToAction("Users", "UserPage", new { area = "" });
+                        return RedirectToRoute(new { controller = "Users", action = "UserPage" });
                     }
                 }
                 ModelState.AddModelError(result);

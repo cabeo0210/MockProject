@@ -1,19 +1,19 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"]</title>
-    @* <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-        <link rel="stylesheet" href="~/css/site.css" /> *@
+    @* <title>@ViewData["Title"]</title> *@
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
     @* <link rel="stylesheet" href="~/css/font-awesome.css">
         <link rel="stylesheet" href="~/css/aos.css">
-        <link rel="stylesheet" href="~/css/style.css"> *@
-    @* <link rel="stylesheet" href="~/css/styleLogin.css">
-        <link rel="stylesheet" href="~/css/styleAdmin.css"> *@
-    @* <link rel="stylesheet" href="~/css/editRegisterPage.css"> *@
-    @* <link rel="stylesheet" href="~/css/userPage.css"> *@
+        <link rel="stylesheet" href="~/css/style.css">
+        <link rel="stylesheet" href="~/css/styleLogin.css">
+        <link rel="stylesheet" href="~/css/styleAdmin.css">
+        <link rel="stylesheet" href="~/css/editRegisterPage.css">
+        <link rel="stylesheet" href="~/css/userPage.css"> *@
 
 
 
@@ -42,11 +42,11 @@
         </div>
         </nav>
         </header> *@
-    <div class="container">
+    @* <div class="container">
         <main role="main" class="pb-3">
-            @RenderBody()
+        @RenderBody()
         </main>
-    </div>
+        </div> *@
 
     @* <footer class="border-top footer text-muted">
         <div class="container">
@@ -56,9 +56,9 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
-    <script src="~/js/aos.js"></script>
-    <script src="~/js/script.js"></script>
-    <script src="~/js/index.js"></script>
+    @* <script src="~/js/aos.js"></script>
+        <script src="~/js/script.js"></script>
+        <script src="~/js/index.js"></script> *@
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 

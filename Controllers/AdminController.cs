@@ -10,18 +10,29 @@ using App.Models;
 namespace App.Controllers
 {
     // [Area("AdminManage")]
+
     public class AdminController : Controller
     {
+        private readonly AppDbContext _context;
         private readonly ILogger<AdminController> _logger;
 
-        public AdminController(ILogger<AdminController> logger)
+        public AdminController(ILogger<AdminController> logger, AppDbContext context)
         {
             _logger = logger;
+            _context = context;
         }
+        [Route("/admin/")]
         public IActionResult AdminPage()
         {
             return View();
         }
+
+        public IActionResult GetListBranch()
+        {
+            var ListBranch = _context.Branchs.ToList();
+            return View(ListBranch);
+        }
+
 
     }
 }

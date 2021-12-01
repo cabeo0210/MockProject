@@ -3,7 +3,7 @@
 }
 @using Microsoft.AspNetCore.Identity
 @using App.Models
-
+@model IEnumerable<App.Models.Branchs.Branch>
 @inject SignInManager<AppUser> SignInManager
 @inject UserManager<AppUser> UserManager
 
@@ -163,6 +163,12 @@
                         Dashboard
                     </span>
                 </a>
+                <a class="sidebar-nav-link active"  asp-area="Branch" asp-controller="Branch" asp-action="Index"><div>
+                        <i class="fas fa-angry"></i>
+                    </div>
+                    <span>
+                        DS Chi Nhánh
+                    </span></a>
             </li>
 
         </ul>

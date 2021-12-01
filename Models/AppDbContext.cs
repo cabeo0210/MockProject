@@ -1,6 +1,8 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using App.Models.Branchs;
+using App.Models.Bookings;
+
 namespace App.Models
 {
     public class AppDbContext : IdentityDbContext<AppUser>
@@ -29,6 +31,7 @@ namespace App.Models
 
         }
         public DbSet<Branch> Branchs { get; set; }
+        public DbSet<Booking> Bookings { get; set; }
         // public DbSet<Agency> agency { set; get; }
     }
 }

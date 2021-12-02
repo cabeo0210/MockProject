@@ -8,7 +8,8 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using App.Models;
 using BranchModel = App.Models.Branchs.Branch;
-
+using App.Repository.IBranchRepository;
+using App.Repository.IBranch;
 namespace App.Areas.Branch.Controllers
 
 {
@@ -18,10 +19,11 @@ namespace App.Areas.Branch.Controllers
     public class BranchController : Controller
     {
         private readonly AppDbContext _context;
-
+        private IBranch ibranch;
         public BranchController(AppDbContext context)
         {
             _context = context;
+            ibranch = new IBranchRepository(context);
 
         }
 
@@ -30,20 +32,23 @@ namespace App.Areas.Branch.Controllers
 
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Branchs.ToListAsync());
+            // return View(await _context.Branchs.ToListAsync());
+            var listBranch = ibranch.GetBranchs();
+            return View(listBranch);
         }
 
         // GET: Branch/Details/5
         [HttpGet("/admin/branch/details/{id}")]
-        public async Task<IActionResult> Details(int? id)
+        public async Task<IActionResult> Details(int id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var branch = await _context.Branchs
-                .FirstOrDefaultAsync(m => m.Id == id);
+            // var branch = await _context.Branchs
+            //     .FirstOrDefaultAsync(m => m.Id == id);
+            var branch = ibranch.GetBranchById(id);
             if (branch == null)
             {
                 return NotFound();
@@ -70,23 +75,27 @@ namespace App.Areas.Branch.Controllers
         {
             if (ModelState.IsValid)
             {
-                _context.Add(branch);
-                await _context.SaveChangesAsync();
+                // _context.Add(branch);
+                // await _context.SaveChangesAsync();
+                // return RedirectToAction(nameof(Index));
+
+                ibranch.InsertBranchRecord(branch);
                 return RedirectToAction(nameof(Index));
+
             }
             return View(branch);
         }
 
         // GET: Branch/Edit/5
         [HttpGet("/admin/branch/edit/{id}")]
-        public async Task<IActionResult> Edit(int? id)
+        public async Task<IActionResult> Edit(int id)
         {
             if (id == null)
             {
                 return NotFound();
             }
-
-            var branch = await _context.Branchs.FindAsync(id);
+            var branch = ibranch.GetBranchById(id);
+            // var branch = await _context.Branchs.FindAsync(id);
             if (branch == null)
             {
                 return NotFound();
@@ -111,8 +120,9 @@ namespace App.Areas.Branch.Controllers
             {
                 try
                 {
-                    _context.Update(branch);
-                    await _context.SaveChangesAsync();
+                    // _context.Update(branch);
+                    // await _context.SaveChangesAsync();
+                    ibranch.UpdateBranchRecord(branch);
                 }
                 catch (DbUpdateConcurrencyException)
                 {
@@ -132,15 +142,16 @@ namespace App.Areas.Branch.Controllers
 
         // GET: Branch/Delete/5
         [HttpGet("/admin/branch/delete/{id}")]
-        public async Task<IActionResult> Delete(int? id)
+        public async Task<IActionResult> Delete(int id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var branch = await _context.Branchs
-                .FirstOrDefaultAsync(m => m.Id == id);
+            // var branch = await _context.Branchs
+            //     .FirstOrDefaultAsync(m => m.Id == id);
+            var branch = ibranch.GetBranchById(id);
             if (branch == null)
             {
                 return NotFound();
@@ -154,9 +165,10 @@ namespace App.Areas.Branch.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var branch = await _context.Branchs.FindAsync(id);
-            _context.Branchs.Remove(branch);
-            await _context.SaveChangesAsync();
+            // var branch = await _context.Branchs.FindAsync(id);
+            // _context.Branchs.Remove(branch);
+            // await _context.SaveChangesAsync();
+            ibranch.DeleteBranchRecord(id);
             return RedirectToAction(nameof(Index));
         }
 

@@ -8,7 +8,7 @@
 
 @* <p>
     <a asp-action="Create">Create New</a>
-</p> *@
+    </p> *@
 <p><a class="btn btn-primary" asp-action="Create">Tạo Mới</a></p>
 
 <table class="table table-bordered table-hover table-striped">
@@ -20,7 +20,7 @@
             <th>
                 @Html.DisplayNameFor(model => model.UserName)
             </th>
-           
+
             <th>
                 @Html.DisplayNameFor(model => model.ClientSlot)
             </th>
@@ -30,9 +30,9 @@
             <th>
                 @Html.DisplayNameFor(model => model.Branch)
             </th>
-             <th>
+            <th>
                 @Html.DisplayNameFor(model => model.UserPhone)
-            </th>          
+            </th>
             <th>
                 @Html.DisplayNameFor(model => model.CreateDate)
             </th>
@@ -40,37 +40,40 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Id)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.UserName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.ClientSlot)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.BookingSlot)
-            </td>
-             <td>
-                @Html.DisplayFor(modelItem => item.Branch)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.UserPhone)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CreateDate)
-            </td>
-            
-            <td>
-                
-                <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.Id">Cập Nhật</a> |
-                <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.Id">Chi Tiết</a> |
-                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Xóa</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ClientSlot)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BookingSlot)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Branch)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UserPhone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CreateDate)
+                </td>
+
+                <td>
+
+                    <a class="btn btn-success" asp-action="Edit" asp-route-id="@item.Id">Cập Nhật</a>
+
+                    <a class="btn btn-success" asp-action="Details" asp-route-id="@item.Id">Chi Tiết</a>
+
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Xóa</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>

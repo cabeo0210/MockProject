@@ -1,45 +1,48 @@
-@model App.Models.Branchs.Branch
+@model App.Models.Bookings.Booking
 
 @{
-    ViewData["Title"] = "Chi Tiết Chi Nhánh";
+    ViewData["Title"] = "Chi Tiết Booking";
 }
 
 <h1>Chi Tiết</h1>
 
 <div>
-    <h4>Chi Tiết Chi Nhánh</h4>
+    <h4>Chi Tiết Booking</h4>
     <hr />
     <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.BranchName)
+
+        <dt class="col-sm-2">
+
+            @Html.DisplayNameFor(model => model.UserName)
         </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.BranchName)
+
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UserName)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.SlotTable)
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.ClientSlot)
         </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.SlotTable)
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.ClientSlot)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Address)
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.BookingSlot)
         </dt>
-         <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Address)
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BookingSlot)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.Distance)
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Branch)
         </dt>
-        
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.Distance) km
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Branch)
         </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.CreateDate)
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.UserPhone)
         </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.CreateDate)
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UserPhone)
         </dd>
     </dl>
 </div>

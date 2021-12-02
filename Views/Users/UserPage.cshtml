@@ -4,13 +4,14 @@
 @inject SignInManager<AppUser> SignInManager
 @inject UserManager<AppUser> UserManager
 
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>User Page</title>
     <link rel="stylesheet" href="~/css/userPage.css">
+    @* <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="~/css/site.css" /> *@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
         integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -18,13 +19,13 @@
 
 <body>
 
-@if (SignInManager.IsSignedIn(User))
-            {
-                
-                  ViewBag.Username =  @UserManager.GetUserName(User);
+    @if (SignInManager.IsSignedIn(User))
+    {
 
-                
-            }
+        ViewBag.Username = @UserManager.GetUserName(User);
+
+
+    }
 
 
 
@@ -37,70 +38,169 @@
                 class="navbar-right">
                     <ul class="nav navbar-nav navbar-right navbar-cen">
                         <li class="nav-item">
-                            <a class="nav-link hi-titile" asp-area="Identity" asp-controller="Manage" asp-action="Index"
-                            title="Manage">Xin chào
+                            <a style="color: #fff;" class="nav-link hi-titile" asp-area="Identity" asp-controller="Manage"
+                            asp-action="Index" title="Manage">Welcome
                                 @UserManager.GetUserName(User)!</a>
 
                         </li>
                         <li class="nav-item">
                             <button asp-area="Identity" asp-controller="Account" asp-action="LogOff" method="post"
-                            id="logoutForm" type="submit" class="btn btn-link navbar-btn navbar-link logout-edit">Đăng
-                                xuất</button>
+                            id="logoutForm" type="submit"
+                            class="btn btn-link navbar-btn navbar-link logout-edit">Logout</button>
                         </li>
                     </ul>
                 </form>
             }
-            
+            @* <partial name="_BranchList" /> *@
         </section>
-        <div class="search-bar">
+        @* <div class="search-bar">
             <input type="text" class="search" placeholder="Quán gần bạn ... km">
             <i class="fas fa-search-location"></i>
-        </div>
+            </div> *@
     </section>
-    <div class="row">
-    <div class="col-md-4">
-        <form asp-area="Booking"asp-controller="Booking" asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="UserName" class="control-label"></label>
-                 
-            @if (SignInManager.IsSignedIn(User))
-            {
-                <input asp-for="UserName" value="@ViewBag.Username"  class="form-control" />
-            }
-            else{
-                <input asp-for="UserName"  class="form-control" />
-            }
-                @* <input asp-for="UserName" value=""  class="form-control" /> *@
-            
-                
-                <span asp-validation-for="UserName" class="text-danger"></span>
+
+    <div class="card-column">
+        <div class=" game">
+            <div class="rank">1</div>
+            <div class="front">
+                <img src="https://www.sweets.vn/wp-content/uploads/2021/08/ca-phe-tang-thuong-sai-gon-6.jpg" alt="game">
+                <h3 class="name">Nắng Rooftop</h3>
+                <div class="status">
+                    <p class="viewers">326 Lê Văn Lương</p>
+                    <div class="streamers">
+                        5km
+                    </div>
+                </div>
             </div>
-            <div class="form-group">
-                <label asp-for="ClientSlot" class="control-label"></label>
-                <input asp-for="ClientSlot" class="form-control" />
-                <span asp-validation-for="ClientSlot" class="text-danger"></span>
+            <div class="back">
+                <div class="streaming-info">
+                    <p class="game-stat">15<span>Slot</span></p>
+                    <p class="game-stat">80+<span>Rating</span></p>
+                </div>
+                <a href="https://www.facebook.com/Nangrooftopcoffee" target="_blank" class="btn">Check in Facebook</a>
             </div>
-            <div class="form-group">
-                <label asp-for="BookingSlot" class="control-label"></label>
-                <input asp-for="BookingSlot" class="form-control" />
-                <span asp-validation-for="BookingSlot" class="text-danger"></span>
+        </div>
+        <div class="backgroundWrapper"></div>
+        <div class=" game">
+            <div class="rank">2</div>
+            <div class="front">
+                <img src="https://www.sweets.vn/wp-content/uploads/2021/08/541d2d3cc9e9d5b812b6b066ed5da76d.jpg"
+                    alt="game" class="img-size">
+                <h3 class="name">2PM</h3>
+                <div class="status">
+                    <p class="viewers">135/39 Nguyễn Hữu Cảnh</p>
+                    <div class="streamers">
+                        5km
+                    </div>
+                </div>
             </div>
-             <div class="form-group">
-                <label asp-for="Branch" class="control-label"></label>
-                <input asp-for="Branch" class="form-control" />
-                <span asp-validation-for="Branch" class="text-danger"></span>
-            </div> 
-            <div class="form-group">
-                <label asp-for="UserPhone" class="control-label"></label>
-                <input asp-for="UserPhone" class="form-control" />
-                <span asp-validation-for="UserPhone" class="text-danger"></span>
-            </div>            
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+            <div class="back">
+                <div class="streaming-info">
+                    <p class="game-stat">15<span>Slot</span></p>
+                    <p class="game-stat">80+<span>Rating</span></p>
+                </div>
+                <a href="https://www.facebook.com/2PMCoffee" target="_blank" class="btn">Check in Facebook</a>
+
             </div>
-        </form>
+        </div>
+        <div class="backgroundWrapper"></div>
+        <div class=" game">
+            <div class="rank">3</div>
+            <div class="front">
+                <img src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t39.30808-6/257576434_419132023153144_4692231525160989238_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=j_BLmIcq0nIAX_J8XJh&_nc_ht=scontent.fsgn2-2.fna&oh=99fde7301390a77240227338cdf2ccd1&oe=61ACDB25"
+                    alt="game">
+                <h3 class="name">Sargon</h3>
+                <div class="status">
+                    <p class="viewers">2/42 Cao Thắng</p>
+                    <div class="streamers">
+                        5km
+                    </div>
+                </div>
+            </div>
+            <div class="back">
+                <div class="streaming-info">
+                    <p class="game-stat">15<span>Slot</span></p>
+                    <p class="game-stat">80+<span>Rating</span></p>
+                </div>
+                <a href="https://www.facebook.com/sargoncoffee" target="_blank" class="btn">Check in Facebook</a>
+            </div>
+        </div>
+        <div class="backgroundWrapper"></div>
+        <div class=" game">
+            <div class="rank">4</div>
+            <div class="front">
+                <img src="https://scontent.fsgn2-4.fna.fbcdn.net/v/t1.6435-9/167127685_542474497142443_5888917863441779566_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=h41J7ocbMtAAX-FygY-&_nc_ht=scontent.fsgn2-4.fna&oh=1f30380997fe9c2e8398ed28f6b3d6f8&oe=61CC9D2F"
+                    alt="game">
+                <h3 class="name">Khói Rooftop</h3>
+                <div class="status">
+                    <p class="viewers">1-3 Phú Mỹ</p>
+                    <div class="streamers">
+                        5km
+                    </div>
+                </div>
+            </div>
+            <div class="back">
+                <div class="streaming-info">
+                    <p class="game-stat">15<span>Slot</span></p>
+                    <p class="game-stat">80+<span>Rating</span></p>
+                </div>
+                <a href="https://www.facebook.com/Nangrooftopcoffee" target="_blank" class="btn">Check in Facebook</a>
+            </div>
+        </div>
+        <div class="backgroundWrapper"></div>
     </div>
-</div>
+
+    </div>
+    </div>
+
+    <br>
+    <div class="form-booking">
+        <div class="col-md-4">
+            <form asp-area="Booking" asp-controller="Booking" asp-action="BookingUser">
+                <div asp-validation-summary="ModelOnly" class="form-booking relative-form"></div>
+                <div class="form__group field">
+                    <label asp-for="UserName" class="form__label"></label>
+
+                    @if (SignInManager.IsSignedIn(User))
+                    {
+                        <input asp-for="UserName" value="@ViewBag.Username" class="form__field" />
+                    }
+                    else
+                    {
+                        <input asp-for="UserName" class="form__field" />
+                    }
+                    <input asp-for="UserName" value="" class="input-booking hide" />
+
+
+                    <span asp-validation-for="UserName" class="text-danger"></span>
+                </div>
+                <div class="form__group field">
+                    <label asp-for="ClientSlot" class="form__label"></label>
+                    <input asp-for="ClientSlot" class="form__field" />
+                    <span asp-validation-for="ClientSlot" class="text-danger"></span>
+                </div>
+                <div class="form__group field">
+                    <label asp-for="BookingSlot" class="form__label"></label>
+                    <input asp-for="BookingSlot" class="form__field" />
+                    <span asp-validation-for="BookingSlot" class="text-danger"></span>
+                </div>
+                <div class="form__group field">
+                    <label asp-for="Branch" class="form__label"></label>
+                    <input asp-for="Branch" class="form__field" />
+                    <span asp-validation-for="Branch" class="text-danger"></span>
+                </div>
+                <div class="form__group field">
+                    <label asp-for="UserPhone" class="form__label"></label>
+                    <input asp-for="UserPhone" class="form__field" />
+                    <span asp-validation-for="UserPhone" class="text-danger"></span>
+                </div>
+                <div class="form__group field ">
+                    <input type="submit" value="Create" class="btn btn-primary submit-form" />
+                </div>
+
+            </form>
+        </div>
+    </div>
+
     @* <partial name="_SearchPage" /> *@
 </body>

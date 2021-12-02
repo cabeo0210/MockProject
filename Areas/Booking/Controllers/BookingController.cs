@@ -8,7 +8,8 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using App.Models;
 using BookingModel = App.Models.Bookings.Booking;
-
+using App.Repository.IBookingRepository;
+using App.Repository.IBooking;
 namespace App.Areas.Booking.Controllers
 
 {
@@ -17,11 +18,13 @@ namespace App.Areas.Booking.Controllers
 
     public class BookingController : Controller
     {
+        private IBooking ibooking;
         private readonly AppDbContext _context;
 
         public BookingController(AppDbContext context)
         {
             _context = context;
+            ibooking = new IBookingRepository(context);
 
         }
 
@@ -30,7 +33,9 @@ namespace App.Areas.Booking.Controllers
 
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Bookings.ToListAsync());
+            // return View(await _context.Bookings.ToListAsync());
+            var listBooking = ibooking.GetBookings();
+            return View(listBooking);
         }
 
         // GET: Booking/Details/5
@@ -60,9 +65,7 @@ namespace App.Areas.Booking.Controllers
             return View();
         }
 
-        // POST: Booking/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+
         [HttpPost("/admin/Booking/create/")]
         [AllowAnonymous]
         [ValidateAntiForgeryToken]
@@ -71,23 +74,30 @@ namespace App.Areas.Booking.Controllers
             if (ModelState.IsValid)
             {
                 Booking.CreateDate = DateTime.Now;
-                _context.Add(Booking);
-                await _context.SaveChangesAsync();
+                ibooking.InsertBookingRecord(Booking);
                 return RedirectToAction(nameof(Index));
             }
+            // if (ModelState.IsValid)
+            // {
+            //     Booking.CreateDate = DateTime.Now;
+            //     _context.Add(Booking);
+            //     await _context.SaveChangesAsync();
+            //     return RedirectToAction(nameof(Index));
+            // }
             return View(Booking);
         }
 
         // GET: Booking/Edit/5
         [HttpGet("/admin/Booking/edit/{id}")]
-        public async Task<IActionResult> Edit(int? id)
+        public async Task<IActionResult> Edit(int id)
         {
-            if (id == null)
-            {
-                return NotFound();
-            }
+            // if (id == null)
+            // {
+            //     return NotFound();
+            // }
 
-            var Booking = await _context.Bookings.FindAsync(id);
+            // var Booking = await _context.Bookings.FindAsync(id);
+            var Booking = ibooking.GetBookingById(id);
             if (Booking == null)
             {
                 return NotFound();
@@ -95,13 +105,11 @@ namespace App.Areas.Booking.Controllers
             return View(Booking);
         }
 
-        // POST: Booking/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+
         [HttpPost("/admin/Booking/edit/{id}")]
         [ValidateAntiForgeryToken]
 
-        public async Task<IActionResult> Edit(int id, [Bind("ClientSlot,BookingSlot,Branch,UserName,UserPhone")] BookingModel Booking)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,ClientSlot,BookingSlot,Branch,UserName,UserPhone")] BookingModel Booking)
         {
             if (id != Booking.Id)
             {
@@ -112,9 +120,10 @@ namespace App.Areas.Booking.Controllers
             {
                 try
                 {
-                    Booking.CreateDate = DateTime.Now;
-                    _context.Update(Booking);
-                    await _context.SaveChangesAsync();
+                    // Booking.CreateDate = DateTime.Now;
+                    // _context.Update(Booking);
+                    // await _context.SaveChangesAsync();
+                    ibooking.UpdateBookingRecord(Booking);
                 }
                 catch (DbUpdateConcurrencyException)
                 {
@@ -134,15 +143,14 @@ namespace App.Areas.Booking.Controllers
 
         // GET: Booking/Delete/5
         [HttpGet("/admin/Booking/delete/{id}")]
-        public async Task<IActionResult> Delete(int? id)
+        public async Task<IActionResult> Delete(int id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var Booking = await _context.Bookings
-                .FirstOrDefaultAsync(m => m.Id == id);
+            var Booking = ibooking.GetBookingById(id);
             if (Booking == null)
             {
                 return NotFound();
@@ -156,11 +164,44 @@ namespace App.Areas.Booking.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var Booking = await _context.Bookings.FindAsync(id);
-            _context.Bookings.Remove(Booking);
-            await _context.SaveChangesAsync();
+            // var Booking = await _context.Bookings.FindAsync(id);
+            // _context.Bookings.Remove(Booking);
+            // await _context.SaveChangesAsync();
+            ibooking.DeleteBookingRecord(id);
             return RedirectToAction(nameof(Index));
         }
+
+        [HttpGet("/Users/UserPage/SuccessBooking/{id}")]
+        public IActionResult SuccessBooking(int id)
+        {
+            var usBooking = _context.Bookings.Where(x => x.Id == id).FirstOrDefault();
+            return View(usBooking);
+        }
+
+        // GET: Booking/Create
+        [HttpGet("/Users/UserPage/bookinguser/")]
+        [AllowAnonymous]
+        public IActionResult BookingUser()
+        {
+            return View();
+        }
+
+        [HttpPost("/Users/UserPage/bookinguser/")]
+        [AllowAnonymous]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> BookingUser([Bind("ClientSlot,BookingSlot,Branch,UserName,UserPhone")] BookingModel Booking)
+        {
+            if (ModelState.IsValid)
+            {
+
+                Booking.CreateDate = DateTime.Now;
+                _context.Add(Booking);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(SuccessBooking), new { id = Booking.Id });
+            }
+            return View(Booking);
+        }
+
 
         private bool BookingExists(int id)
         {

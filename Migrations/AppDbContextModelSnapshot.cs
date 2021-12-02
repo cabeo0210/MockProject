@@ -94,9 +94,6 @@ namespace App.Migrations
                     b.ToTable("Users", (string)null);
                 });
 
-<<<<<<< HEAD
-            modelBuilder.Entity("App.Models.Branch", b =>
-=======
             modelBuilder.Entity("App.Models.Bookings.Booking", b =>
                 {
                     b.Property<int>("Id")
@@ -130,7 +127,6 @@ namespace App.Migrations
                 });
 
             modelBuilder.Entity("App.Models.Branchs.Branch", b =>
->>>>>>> 1be77d52be5156ae07206f951b11a366439c787e
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -159,7 +155,6 @@ namespace App.Migrations
 
                     b.HasKey("Id");
 
-<<<<<<< HEAD
                     b.ToTable("Branch");
 
                     b.HasData(
@@ -199,9 +194,7 @@ namespace App.Migrations
                             Distance = 3,
                             SlotTable = 10
                         });
-=======
                     b.ToTable("Branchs");
->>>>>>> 1be77d52be5156ae07206f951b11a366439c787e
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>

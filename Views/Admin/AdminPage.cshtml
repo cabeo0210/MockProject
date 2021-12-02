@@ -1,7 +1,6 @@
 @{
     ViewData["Title"] = "Admin Page";
-
-    
+   
 }
 @using Microsoft.AspNetCore.Identity
 @using App.Models
@@ -167,7 +166,7 @@
                         <i class="fas fa-angry"></i>
                     </div>
                     <span>
-                        DS Chi Nhánh
+                        Branch
                     </span></a>
             </li>
 
@@ -178,12 +177,23 @@
     <div class="wrapper">
         <div class="row">
             <div class="col-3 col-m-6 col-sm-6">
+              <div class="counter bg-success">
+                    <p>
+                        <i class="far fa-comments"></i>
+                    </p>
+                    <h3>@ViewBag.count</h3>
+                    <h4>Booking In Day</h4>
+                    </div>
+            
+            
+            </div>
+            <div class="col-3 col-m-6 col-sm-6">   
                 <div class="counter bg-primary">
                     <p>
                         <i class="far fa-eye"></i>
                     </p>
-                    <h3>100+</h3>
-                    <p>Daily Views</p>
+                    <h3>@ViewBag.branch1 Booking</h3>
+                    <h4>Nắng Rooftop</h4>
                 </div>
             </div>
             <div class="col-3 col-m-6 col-sm-6">
@@ -191,8 +201,8 @@
                     <p>
                         <i class="fas fa-store-alt"></i>
                     </p>
-                    <h3>10</h3>
-                    <p>Agency</p>
+                     <h3>@ViewBag.branch2 Booking</h3>
+                    <h4>2PM</h4>
                 </div>
             </div>
             <div class="col-3 col-m-6 col-sm-6">
@@ -200,26 +210,19 @@
                     <p>
                         <i class="far fa-comments"></i>
                     </p>
-                    <h3>100+</h3>
-                    <p>Comments</p>
+                    <h3>@ViewBag.branch3 Booking</h3>
+                    <h4>Sargon</h4>
                 </div>
             </div>
-            <div class="col-3 col-m-6 col-sm-6">
-                <div class="counter bg-danger">
-                    <p>
-                        <i class="fas fa-dollar-sign"></i>
-                    </p>
-                    <h3>100+</h3>
-                    <p>Earning</p>
-                </div>
-            </div>
+            
         </div>
         <div class="row">
             <div class="col-8 col-m-12 col-sm-12">
                 <div class="card">
                     <div class="card-header">
                         <h3>
-                             Booking
+                             
+                             <a style="text-decoration:none"   asp-area="Booking" asp-controller="Booking" asp-action="Index"> Booking</a>
                         </h3>
                         <i class="fas fa-ellipsis-h"></i>
                     </div>
@@ -276,13 +279,38 @@
                 <div class="card">
                     <div class="card-header">
                         <h3>
-                            Customer List
+                            Rencently Customer
                         </h3>
-                        <i class="fas fa-ellipsis-h"></i>
+                        <i class="fas fa-ellipsis-h"></i>      
                     </div>
-                    <div class="card-body">
-                      @* <partial name="_ListUser"/> *@
+                    <div class="card-content">
+                        <table>
+                            <thead>
+                                <tr>
+                                    
+                               
+                                    
+                                </tr>
+                            </thead>
+                            <tbody>
+@foreach (var item in Model) {
+        <tr>
+            
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName) 
+            </td>
+            
+            
+            
+            
+        </tr>
+}
+                                
+
+                            </tbody>
+                        </table>
                     </div>
+                    
                 </div>
             </div>
         </div>

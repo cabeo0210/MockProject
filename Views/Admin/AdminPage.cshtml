@@ -162,11 +162,17 @@
                         Dashboard
                     </span>
                 </a>
-                <a class="sidebar-nav-link active"  asp-area="Branch" asp-controller="Branch" asp-action="Index"><div>
+                <a class="sidebar-nav-link "  asp-area="Branch" asp-controller="Branch" asp-action="Index"><div>
                         <i class="fas fa-angry"></i>
                     </div>
                     <span>
                         Branch
+                    </span></a>
+                <a class="sidebar-nav-link "  asp-area="Booking" asp-controller="Booking" asp-action="Index"><div>
+                        <i class="fas fa-igloo"></i>
+                    </div>
+                    <span>
+                        Booking
                     </span></a>
             </li>
 
@@ -212,6 +218,15 @@
                     </p>
                     <h3>@ViewBag.branch3 Booking</h3>
                     <h4>Sargon</h4>
+                </div>
+            </div>
+            <div class="col-3 col-m-6 col-sm-6">
+                <div class="counter bg-success">
+                    <p>
+                        <i class="far fa-comments"></i>
+                    </p>
+                    <h3>@ViewBag.branch4 Booking</h3>
+                    <h4>Khói Rooftop</h4>
                 </div>
             </div>
             

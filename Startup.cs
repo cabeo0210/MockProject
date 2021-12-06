@@ -12,6 +12,10 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using App.Models;
 using App.Services;
+using App.Repository.IBooking;
+using App.Repository.IBranch;
+using App.Repository.IBookingRepository;
+using App.Repository.IBranchRepository;
 
 namespace App
 {
@@ -33,6 +37,18 @@ namespace App
             services.AddSingleton<IEmailSender, SendMailService>();
 
             services.AddSingleton<IdentityErrorDescriber, AppIdentityErrorDescriber>();
+            services.AddScoped<IBooking, IBookingRepository>();
+            services.AddScoped<IBranch, IBranchRepository>();
+            services.AddRazorPages()
+                .AddMvcOptions(options =>
+                {
+                    options.ModelBindingMessageProvider.SetValueMustNotBeNullAccessor(
+                        _ => "The field is required.");
+
+                    options.ModelBindingMessageProvider.SetValueIsInvalidAccessor(
+                        _ => "The field is required.");
+
+                });
             services.AddControllersWithViews();
             services.AddRazorPages();
             services.AddDbContext<AppDbContext>(options =>

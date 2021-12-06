@@ -13,16 +13,22 @@ namespace App.Models.Branchs
 
         [Column(TypeName = "nvarchar")]
         [StringLength(50)]
-        [Required(ErrorMessage = "Phải nhập {0}")]
+        [Required(ErrorMessage = "{0} Không Được Để Trống")]
         [Display(Name = "Tên Chi Nhánh")]
         public string BranchName { get; set; }
-        [Required(ErrorMessage = "Phải nhập bàn trống")]
+
         [Display(Name = "Số Bàn Trống")]
-        public int SlotTable { get; set; }
-        [Required(ErrorMessage = "Phải nhập số km")]
+        [Required(ErrorMessage = "{0} Không Được Để Trống")]
+        [Range(1, 9999, ErrorMessage = "Phải Nhập Từ 0 - 9999")]
+        public int? SlotTable { get; set; }
+
+
+        [Required(ErrorMessage = "{0} Không Được Để Trống")]
+        [Range(0, 3000, ErrorMessage = "Phải Nhập Từ 0 - 3000 Km")]
         [Display(Name = "Số Km")]
-        public int Distance { get; set; }
-        [Required(ErrorMessage = "Phải nhập địa chỉ")]
+        public int? Distance { get; set; }
+
+        [Required(ErrorMessage = "{0} Không Được Để Trống")]
         [StringLength(100)]
         [Display(Name = "Địa Chỉ")]
         public string Address { get; set; }

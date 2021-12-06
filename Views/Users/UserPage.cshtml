@@ -107,7 +107,7 @@
         <div class=" game">
             <div class="rank">3</div>
             <div class="front">
-                <img src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t39.30808-6/257576434_419132023153144_4692231525160989238_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=j_BLmIcq0nIAX_J8XJh&_nc_ht=scontent.fsgn2-2.fna&oh=99fde7301390a77240227338cdf2ccd1&oe=61ACDB25"
+                <img src="https://scontent.fsgn2-2.fna.fbcdn.net/v/t39.30808-6/257576434_419132023153144_4692231525160989238_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=ppuL_qENoT0AX-OsVMu&_nc_ht=scontent.fsgn2-2.fna&oh=f5fcd18553bb0a3b34051dd6739f9aa1&oe=61B2C9E5"
                     alt="game">
                 <h3 class="name">Sargon</h3>
                 <div class="status">
@@ -156,7 +156,7 @@
     <br>
     <div class="form-booking">
         <div class="col-md-4">
-            <form asp-area="Booking" asp-controller="Booking" asp-action="BookingUser">
+            <form asp-controller="Users" asp-action="UserPage">
                 <div asp-validation-summary="ModelOnly" class="form-booking relative-form"></div>
                 <div class="form__group field">
                     <label asp-for="UserName" class="form__label"></label>
@@ -184,9 +184,19 @@
                     <input asp-for="BookingSlot" class="form__field" />
                     <span asp-validation-for="BookingSlot" class="text-danger"></span>
                 </div>
-                <div class="form__group field">
+                @* <div class="form__group field">
                     <label asp-for="Branch" class="form__label"></label>
                     <input asp-for="Branch" class="form__field" />
+                    <span asp-validation-for="Branch" class="text-danger"></span>
+                    </div> *@
+                <div class="form__group field">
+                    <label asp-for="Branch" class="form__label"></label>
+                    <select asp-for="Branch" class="form__field ">
+                        <option class="dropdown-list" value="Nang Rooftop">Nắng Rooftop</option>
+                        <option class="dropdown-list" value="2PM">2PM</option>
+                        <option class="dropdown-list" value="Sargon">Sargon</option>
+                        <option class="dropdown-list" value="Khoi Rooftop">Khói Rooftop</option>
+                    </select>
                     <span asp-validation-for="Branch" class="text-danger"></span>
                 </div>
                 <div class="form__group field">
@@ -201,6 +211,8 @@
             </form>
         </div>
     </div>
+
+
 
     @* <partial name="_SearchPage" /> *@
 </body>

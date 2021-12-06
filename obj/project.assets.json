@@ -9862,19 +9862,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cabeo\\.nuget\\packages\\": {}
+    "C:\\Users\\Nom\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cabeo\\Desktop\\App\\App.csproj",
+      "projectUniqueName": "D:\\Project-C#\\App\\App.csproj",
       "projectName": "App",
-      "projectPath": "C:\\Users\\cabeo\\Desktop\\App\\App.csproj",
-      "packagesPath": "C:\\Users\\cabeo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cabeo\\Desktop\\App\\obj\\",
+      "projectPath": "D:\\Project-C#\\App\\App.csproj",
+      "packagesPath": "C:\\Users\\Nom\\.nuget\\packages\\",
+      "outputPath": "D:\\Project-C#\\App\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\cabeo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nom\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

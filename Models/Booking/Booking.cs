@@ -19,7 +19,7 @@ namespace App.Models.Bookings
         public int? ClientSlot { get; set; }
         [Required(ErrorMessage = "Phải Nhập Số Bàn")]
         [Range(1, 20, ErrorMessage = "Số Lượng Bàn Phải Từ 1 - 20")]
-        
+
         [Display(Name = "Số Bàn")]
         public int? BookingSlot { get; set; }
         [Required(ErrorMessage = "Chi Nhánh Không Được Để Trống")]

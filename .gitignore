@@ -16,7 +16,7 @@ obj
 ./bin/Debug/net6.0/
 ./obj/
 ./obj/Debug/
-./obj/Debug/net6.0/
+./obj/Debug/net6.0
 ./obj/Debug/staticwebassets.pack.sentinel
 # Local History for Visual Studio Code
 .history/

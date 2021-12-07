@@ -22,7 +22,7 @@ namespace App.Models.Bookings
 
         [Display(Name = "Số Bàn")]
         public int? BookingSlot { get; set; }
-        [Required(ErrorMessage = "Chi Nhánh Không Được Để Trống")]
+        // [Required(ErrorMessage = "Chi Nhánh Không Được Để Trống")]
         [MaxLength(50, ErrorMessage = "Địa Chỉ Không Được Quá Dài")]
         [Display(Name = "Chi Nhánh")]
         public string Branch { get; set; }

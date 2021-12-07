@@ -13,13 +13,16 @@ namespace App.Models.Bookings
 
         [Column(TypeName = "int")]
 
-        [Required(ErrorMessage = "Phải nhập {0}")]
+        [Required(ErrorMessage = "{0} Không Được Để Trống")]
+        [Range(1, 20, ErrorMessage = "Số Lượng Người Phải Từ 1 - 20")]
         [Display(Name = "Số Lượng Người")]
-        public int ClientSlot { get; set; }
-        [Required(ErrorMessage = "Phải nhập số bàn")]
+        public int? ClientSlot { get; set; }
+        [Required(ErrorMessage = "Phải Nhập Số Bàn")]
+        [Range(1, 20, ErrorMessage = "Số Lượng Bàn Phải Từ 1 - 20")]
+
         [Display(Name = "Số Bàn")]
-        public int BookingSlot { get; set; }
-        [Required(ErrorMessage = "Phải nhập chi nhánh")]
+        public int? BookingSlot { get; set; }
+        [Required(ErrorMessage = "Chi Nhánh Không Được Để Trống")]
         [Display(Name = "Chi Nhánh")]
         public string Branch { get; set; }
 
@@ -28,6 +31,10 @@ namespace App.Models.Bookings
         public string UserName { get; set; }
 
         [Display(Name = "Số Điện Thoại")]
+        [Required(ErrorMessage = "{0} Không Được Để Trống")]
+        // [RegularExpression(@"^(\d{10})$", ErrorMessage = "Nhập Đúng Số Điện Thoại")]
+        [RegularExpression(@"^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$",
+                   ErrorMessage = "Nhập Đúng Số Điện Thoại")]
         public string UserPhone { get; set; }
 
         [Display(Name = "Ngày Tạo")]

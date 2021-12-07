@@ -156,7 +156,7 @@
     <br>
     <div class="form-booking">
         <div class="col-md-4">
-            <form asp-area="Booking" asp-controller="Booking" asp-action="BookingUser">
+            <form asp-controller="Users" asp-action="UserPage">
                 <div asp-validation-summary="ModelOnly" class="form-booking relative-form"></div>
                 <div class="form__group field">
                     <label asp-for="UserName" class="form__label"></label>
@@ -191,7 +191,6 @@
                     </div> *@
                 <div class="form__group field">
                     <label asp-for="Branch" class="form__label"></label>
-                    @* <input asp-for="Branch" class="form__field" /> *@
                     <select asp-for="Branch" class="form__field ">
                         <option class="dropdown-list" value="Nang Rooftop">Nắng Rooftop</option>
                         <option class="dropdown-list" value="2PM">2PM</option>
@@ -199,7 +198,6 @@
                         <option class="dropdown-list" value="Khoi Rooftop">Khói Rooftop</option>
                     </select>
                     <span asp-validation-for="Branch" class="text-danger"></span>
-
                 </div>
                 <div class="form__group field">
                     <label asp-for="UserPhone" class="form__label"></label>

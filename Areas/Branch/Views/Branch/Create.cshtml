@@ -19,10 +19,10 @@
             </div>
             <div class="form-group">
                 <label asp-for="SlotTable" class="control-label"></label>
-                <input asp-for="SlotTable" class="form-control" />
+                <input onchange="check(this)" asp-for="SlotTable" class="form-control" />
                 <span asp-validation-for="SlotTable" class="text-danger"></span>
             </div>
-             <div class="form-group">
+            <div class="form-group">
                 <label asp-for="Address" class="control-label"></label>
                 <input asp-for="Address" class="form-control" />
                 <span asp-validation-for="Address" class="text-danger"></span>
@@ -47,4 +47,3 @@
 <div>
     <a asp-action="Index">Back to List</a>
 </div>
-

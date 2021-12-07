@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UpJ8cqN9bp6xp7zjZlBMIlmhC9MFb7eHs0mvwam4INM=",
+  "Hash": "HANX0b75nv9C5io7TBGTbCxUB8GXb8Ji4+9+2UlbwJ4=",
   "Source": "App",
   "BasePath": "_content/App",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "App\\wwwroot",
       "Source": "App",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\css\\site.css",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\favicon.ico",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\favicon.ico",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\js\\site.js",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\js\\site.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\js\\site.js"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -541,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -558,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -626,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -643,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -677,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -694,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -711,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -728,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -745,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -762,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -779,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -796,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -813,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -830,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -847,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -864,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -881,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -898,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -915,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -932,13 +932,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -949,13 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -966,13 +966,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1000,13 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1017,13 +1017,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1034,13 +1034,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Nom\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\css\\aos.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\css\\aos.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "css/aos.css",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\css\\aos.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\css\\bookingSuccess.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\css\\bookingSuccess.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "css/bookingSuccess.css",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bookingSuccess.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\css\\editLoginPage.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\css\\editLoginPage.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "css/editLoginPage.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\editLoginPage.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\css\\editRegisterPage.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\css\\editRegisterPage.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "css/editRegisterPage.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\editRegisterPage.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\css\\font-awesome.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\css\\font-awesome.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "css/font-awesome.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\css\\style.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\css\\styleAdmin.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\css\\styleAdmin.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "css/styleAdmin.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styleAdmin.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\css\\styleLogin.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\css\\styleLogin.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "css/styleLogin.css",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styleLogin.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\css\\userPage.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\css\\userPage.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "css/userPage.css",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\css\\userPage.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\favicon.ico",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\css\\all.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\css\\all.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/css/all.css",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\css\\all.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\css\\all.min.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\css\\all.min.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/css/all.min.css",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\css\\all.min.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\css\\brands.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\css\\brands.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/css/brands.css",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\css\\brands.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\css\\brands.min.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\css\\brands.min.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/css/brands.min.css",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\css\\brands.min.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\css\\fontawesome.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\css\\fontawesome.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/css/fontawesome.css",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\css\\fontawesome.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\css\\fontawesome.min.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\css\\fontawesome.min.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/css/fontawesome.min.css",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\css\\fontawesome.min.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\css\\regular.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\css\\regular.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/css/regular.css",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\css\\regular.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\css\\regular.min.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\css\\regular.min.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/css/regular.min.css",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\css\\regular.min.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\css\\solid.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\css\\solid.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/css/solid.css",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\css\\solid.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\css\\solid.min.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\css\\solid.min.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/css/solid.min.css",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\css\\solid.min.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\css\\svg-with-js.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\css\\svg-with-js.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/css/svg-with-js.css",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\css\\svg-with-js.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\css\\svg-with-js.min.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\css\\svg-with-js.min.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/css/svg-with-js.min.css",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\css\\svg-with-js.min.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\css\\v4-shims.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\css\\v4-shims.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/css/v4-shims.css",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\css\\v4-shims.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\css\\v4-shims.min.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\css\\v4-shims.min.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/css/v4-shims.min.css",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\css\\v4-shims.min.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\LICENSE.txt",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\LICENSE.txt",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/LICENSE.txt",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-brands-400.eot",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/webfonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-brands-400.svg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/webfonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-brands-400.woff",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/webfonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-regular-400.eot",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/webfonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-regular-400.svg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/webfonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-regular-400.woff",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/webfonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-solid-900.eot",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/webfonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-solid-900.svg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/webfonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-solid-900.woff",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/webfonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "fontawesome-free/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\about.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\about.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/about.jpg",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\img\\about.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\background.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\background.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/background.jpg",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\img\\background.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\bg1.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\bg1.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/bg1.jpg",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg1.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\bgg.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\bgg.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/bgg.jpg",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bgg.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\footer-bg.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\footer-bg.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/footer-bg.jpg",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\img\\footer-bg.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\menu\\1.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\menu\\1.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/menu/1.jpg",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menu\\1.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\menu\\10.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\menu\\10.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/menu/10.jpg",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menu\\10.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\menu\\11.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\menu\\11.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/menu/11.jpg",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menu\\11.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\menu\\12.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\menu\\12.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/menu/12.jpg",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menu\\12.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\menu\\2.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\menu\\2.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/menu/2.jpg",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menu\\2.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\menu\\3.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\menu\\3.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/menu/3.jpg",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menu\\3.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\menu\\4.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\menu\\4.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/menu/4.jpg",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menu\\4.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\menu\\5.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\menu\\5.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/menu/5.jpg",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menu\\5.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\menu\\6.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\menu\\6.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/menu/6.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menu\\6.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\menu\\7.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\menu\\7.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/menu/7.jpg",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menu\\7.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\menu\\8.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\menu\\8.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/menu/8.jpg",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menu\\8.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\menu\\9.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\menu\\9.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/menu/9.jpg",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\img\\menu\\9.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\success.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\success.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/success.jpg",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\img\\success.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\team\\1.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\team\\1.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/team/1.jpg",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\1.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\team\\2.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\team\\2.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/team/2.jpg",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\2.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\team\\3.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\team\\3.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/team/3.jpg",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\3.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\testimonials\\1.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\testimonials\\1.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/testimonials/1.jpg",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonials\\1.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\testimonials\\2.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\testimonials\\2.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/testimonials/2.jpg",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonials\\2.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\img\\testimonials\\3.jpg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\img\\testimonials\\3.jpg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "img/testimonials/3.jpg",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\img\\testimonials\\3.jpg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\js\\aos.js",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\js\\aos.js",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "js/aos.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\js\\aos.js"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\js\\index.js",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\js\\index.js",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "js/index.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\js\\index.js"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\js\\script.js",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\js\\script.js",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "js/script.js",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\multiple-select\\multiple-select.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\multiple-select\\multiple-select.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/multiple-select/multiple-select.css",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\multiple-select\\multiple-select.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\multiple-select\\multiple-select.js",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\multiple-select\\multiple-select.js",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/multiple-select/multiple-select.js",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\multiple-select\\multiple-select.js"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\multiple-select\\multiple-select.min.css",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\multiple-select\\multiple-select.min.css",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/multiple-select/multiple-select.min.css",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\multiple-select\\multiple-select.min.css"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\multiple-select\\multiple-select.min.css.map",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\multiple-select\\multiple-select.min.css.map",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/multiple-select/multiple-select.min.css.map",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\multiple-select\\multiple-select.min.css.map"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\multiple-select\\multiple-select.min.js",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\multiple-select\\multiple-select.min.js",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/multiple-select/multiple-select.min.js",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\multiple-select\\multiple-select.min.js"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\multiple-select\\multiple-select.min.js.map",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\multiple-select\\multiple-select.min.js.map",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/multiple-select/multiple-select.min.js.map",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\multiple-select\\multiple-select.min.js.map"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\lib\\multiple-select\\multiple-select.png",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\lib\\multiple-select\\multiple-select.png",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "lib/multiple-select/multiple-select.png",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\multiple-select\\multiple-select.png"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\webfonts\\fa-brands-400.eot",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "webfonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\webfonts\\fa-brands-400.svg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "webfonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\webfonts\\fa-brands-400.ttf",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\webfonts\\fa-brands-400.woff",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "webfonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\webfonts\\fa-brands-400.woff2",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\webfonts\\fa-regular-400.eot",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "webfonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\webfonts\\fa-regular-400.svg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "webfonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\webfonts\\fa-regular-400.ttf",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\webfonts\\fa-regular-400.woff",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "webfonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\webfonts\\fa-regular-400.woff2",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\webfonts\\fa-solid-900.eot",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "webfonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\webfonts\\fa-solid-900.svg",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "webfonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\webfonts\\fa-solid-900.ttf",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\webfonts\\fa-solid-900.woff",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "webfonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "D:\\Project-C#\\App\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\webfonts\\fa-solid-900.woff2",
       "SourceId": "App",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Project-C#\\App\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
       "BasePath": "_content/App",
       "RelativePath": "webfonts/fa-solid-900.woff2",
       "AssetKind": "All",

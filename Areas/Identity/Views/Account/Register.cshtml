@@ -2,94 +2,77 @@
 @using App.Models
 @model RegisterViewModel
 @{
-
-    ViewData["Title"] = "Register Page";
+  ViewData["Title"] = "Register Page";
 }
 @* @{
-    Layout = "_RegisterLayout";
-    } *@
-
+  Layout = "_RegisterLayout";
+  } *@
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="~/css/editRegisterPage.css">
-    @* <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-        <link rel="stylesheet" href="~/css/site.css" /> *@
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="~/css/editRegisterPage.css">
+  @* <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+      <link rel="stylesheet" href="~/css/site.css" /> *@
 </head>
 @* <h4 class="title-text">Create New Account</h4> *@
 <div class="center">
-    <h1>@ViewData["Title"]</h1>
-    <form asp-controller="Account" asp-action="Register" asp-route-returnurl="@ViewData["ReturnUrl"]" method="post"
-        class="" role="form">
-        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-        <div class="txt_field">
-            <input asp-for="UserName" class="form-control" />
-            <span asp-validation-for="UserName" class="text-danger"></span>
-            <label asp-for="UserName" class="control-label"></label>
-        </div>
-        <div class="txt_field">
-            <input asp-for="Email" class="form-control" />
-            <span asp-validation-for="Email" class="text-danger"></span>
-            <label asp-for="Email" class="control-label"></label>
-        </div>
-        <div class="txt_field">
-            <input asp-for="Password" class="form-control" />
-            <span asp-validation-for="Password" class="text-danger"></span>
-            <label asp-for="Password" class="control-label"></label>
-        </div>
-        <div class="txt_field">
-            <input asp-for="ConfirmPassword" class="form-control" />
-            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
-            <label asp-for="ConfirmPassword" class="control-label"></label>
-        </div>
-        <button type="submit" class="pass button-type">Sign In</button>
-    </form>
-    @{
-
-        var schemes = await SignInManager.GetExternalAuthenticationSchemesAsync();
-
-        var loginProviders = schemes.ToList();
-
-        if (loginProviders.Count == 0)
-
-        {
-            <div>
-                <p>
-                    Ứng dụng chưa hỗ trợ đăng nhập từ tài khoản ngoài
-                </p>
-            </div>
-
-        }
-
-        else
-
-        {
-            <form asp-controller="Account" asp-action="ExternalLogin" asp-route-returnurl="@ViewData["ReturnUrl"]" method="post"
-        class="form-horizontal" role="form">
-                <div>
-                    <div class="auth">
-                        Or Login With
-                    </div>
-                    <p class="social-btn">
-                        @foreach (var provider in loginProviders)
-                        {
-                            <button type="submit" class="social-login" name="provider" value="@provider.Name"
-                        title="Log in using your @provider.Name account">@provider.Name</button>
-
-                        }
-                    </p>
-                </div>
-            </form>
-
-        }
-    }
+  <h1>@ViewData["Title"]</h1>
+  <form asp-controller="Account" asp-action="Register" asp-route-returnurl="@ViewData["ReturnUrl"]" method="post"
+      class="" role="form">
+      <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+      <div class="txt_field">
+          <input maxlength="10" asp-for="UserName" class="form-control" />
+          <span asp-validation-for="UserName" class="text-danger"></span>
+          <label asp-for="UserName" class="control-label"></label>
+      </div>
+      <div class="txt_field">
+          <input asp-for="Email" class="form-control" />
+          <span asp-validation-for="Email" class="text-danger"></span>
+          <label asp-for="Email" class="control-label"></label>
+      </div>
+      <div class="txt_field">
+          <input asp-for="Password" class="form-control" />
+          <span asp-validation-for="Password" class="text-danger"></span>
+          <label asp-for="Password" class="control-label"></label>
+      </div>
+      <div class="txt_field">
+          <input asp-for="ConfirmPassword" class="form-control" />
+          <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+          <label asp-for="ConfirmPassword" class="control-label"></label>
+      </div>
+      <button type="submit" class="pass button-type">Sign In</button>
+  </form>
+  @{
+      var schemes = await SignInManager.GetExternalAuthenticationSchemesAsync();
+      var loginProviders = schemes.ToList();
+      if (loginProviders.Count == 0)
+      {
+          <div>
+              <p>
+                  Ứng dụng chưa hỗ trợ đăng nhập từ tài khoản ngoài
+              </p>
+          </div>
+      }
+      else
+      {
+          <form asp-controller="Account" asp-action="ExternalLogin" asp-route-returnurl="@ViewData["ReturnUrl"]" method="post"
+      class="form-horizontal" role="form">
+              <div>
+                  <div class="auth">
+                      Or Login With
+                  </div>
+                  <p class="social-btn">
+                      @foreach (var provider in loginProviders)
+                      {
+                          <button type="submit" class="social-login" name="provider" value="@provider.Name"
+                      title="Log in using your @provider.Name account">@provider.Name</button>
+                      }
+                  </p>
+              </div>
+          </form>
+      }
+  }
 </div>
-
-
-
-
-
-
 @section Scripts {
 @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
 }

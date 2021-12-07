@@ -28,6 +28,7 @@ namespace App.Models.Bookings
 
         [Required(ErrorMessage = "Phải nhập họ tên")]
         [Display(Name = "Họ Tên")]
+        [MaxLength(50, ErrorMessage = "Tên Không Được Quá Dài")]
         public string UserName { get; set; }
 
         [Display(Name = "Số Điện Thoại")]

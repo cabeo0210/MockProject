@@ -30,6 +30,7 @@ namespace App.Models.Branchs
 
         [Required(ErrorMessage = "{0} Không Được Để Trống")]
         [StringLength(100)]
+        [MaxLength(50, ErrorMessage = "{0} Không Được Quá Dài")]
         [Display(Name = "Địa Chỉ")]
         public string Address { get; set; }
         [Display(Name = "Ngày Tạo")]

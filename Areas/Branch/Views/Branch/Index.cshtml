@@ -8,7 +8,7 @@
 
 @* <p>
     <a asp-action="Create">Create New</a>
-</p> *@
+    </p> *@
 <p><a class="btn btn-primary" asp-action="Create">Tạo Mới</a></p>
 
 <table class="table table-bordered table-hover">
@@ -36,33 +36,34 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.Id)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.BranchName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.SlotTable)
-            </td>
-             <td>
-                @Html.DisplayFor(modelItem => item.Address)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Distance) km
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CreateDate)
-            </td>
-            <td>
-                
-                <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.Id">Cập Nhật</a> |
-                <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.Id">Chi Tiết</a> |
-                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Xóa</a>
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BranchName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SlotTable)
+                </td>
+                <td>
+                    <div class="text-truncate" style="max-width: 150px;">@Html.DisplayFor(modelItem => item.Address)</div>
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Distance) km
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CreateDate)
+                </td>
+                <td>
+
+                    <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.Id">Cập Nhật</a> |
+                    <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.Id">Chi Tiết</a> |
+                    <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Xóa</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>

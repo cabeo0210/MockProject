@@ -176,12 +176,12 @@
                 </div>
                 <div class="form__group field">
                     <label asp-for="ClientSlot" class="form__label"></label>
-                    <input asp-for="ClientSlot" class="form__field" />
+                    <input onchange="checkClientSlot(this)" asp-for="ClientSlot" class="form__field" />
                     <span asp-validation-for="ClientSlot" class="text-danger"></span>
                 </div>
                 <div class="form__group field">
                     <label asp-for="BookingSlot" class="form__label"></label>
-                    <input asp-for="BookingSlot" class="form__field" />
+                    <input onchange="checkBookingSlot(this)" asp-for="BookingSlot" class="form__field" />
                     <span asp-validation-for="BookingSlot" class="text-danger"></span>
                 </div>
                 @* <div class="form__group field">
@@ -212,7 +212,38 @@
         </div>
     </div>
 
+    <script type="text/javascript">
+        function checkClientSlot(input) {
+            if (input.value <= 0) {
+                input.value = 1;
+                alert(`Số người không thể dưới ${input.value}`)
+            }
+            else if (input.value >= 100) {
 
+                input.value = 100;
+                alert(`Số người tối đa là ${input.value}`)
+
+
+            }
+
+        }
+
+        function checkBookingSlot(input) {
+            if (input.value <= 0) {
+                input.value = 1;
+                alert(`Đặt chỗ không thể dưới ${input.value}`)
+            }
+            else if (input.value >= 100) {
+
+                input.value = 100;
+                alert(`Đặt chỗ tối đa là ${input.value}`)
+
+
+            }
+
+        }
+
+    </script>
 
     @* <partial name="_SearchPage" /> *@
 </body>

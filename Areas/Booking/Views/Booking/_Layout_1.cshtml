@@ -68,6 +68,36 @@
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
         crossorigin="anonymous"></script>
     @await RenderSectionAsync("Scripts", required: false)
+
+    <script type="text/javascript">
+        function checkClientSlot(input) {
+            if (input.value <= 0) {
+                input.value = 1;
+                alert(`Số người không thể dưới ${input.value}`)
+            }
+            else if (input.value >= 100) {
+
+                input.value = 100;
+                alert(`Số người tối đa là ${input.value}`)
+            }
+        }
+        function checkBookingSlot(input) {
+            if (input.value <= 0) {
+                input.value = 1;
+                alert(`Đặt chỗ không thể dưới ${input.value}`)
+            }
+            else if (input.value >= 100) {
+
+                input.value = 100;
+                alert(`Đặt chỗ tối đa là ${input.value}`)
+
+
+
+            }
+        }
+    </script>
+
+
 </body>
 
 </html>

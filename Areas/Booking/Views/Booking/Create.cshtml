@@ -16,33 +16,33 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="UserName" class="control-label"></label>
-                 
-            
-                <input asp-for="UserName"  class="form-control" />
-            
-                
+
+
+                <input asp-for="UserName" class="form-control" />
+
+
                 <span asp-validation-for="UserName" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="ClientSlot" class="control-label"></label>
-                <input asp-for="ClientSlot" class="form-control" />
+                <input onchange="checkClientSlot(this)" asp-for="ClientSlot" class="form-control" />
                 <span asp-validation-for="ClientSlot" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <label asp-for="BookingSlot" class="control-label"></label>
-                <input asp-for="BookingSlot" class="form-control" />
+                <input onchange="checkBookingSlot(this)" asp-for="BookingSlot" class="form-control" />
                 <span asp-validation-for="BookingSlot" class="text-danger"></span>
             </div>
-             <div class="form-group">
+            <div class="form-group">
                 <label asp-for="Branch" class="control-label"></label>
                 <input asp-for="Branch" class="form-control" />
                 <span asp-validation-for="Branch" class="text-danger"></span>
-            </div> 
+            </div>
             <div class="form-group">
                 <label asp-for="UserPhone" class="control-label"></label>
                 <input asp-for="UserPhone" class="form-control" />
                 <span asp-validation-for="UserPhone" class="text-danger"></span>
-            </div>            
+            </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
@@ -53,4 +53,3 @@
 <div>
     <a asp-action="Index">Trở lại</a>
 </div>
-

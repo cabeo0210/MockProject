@@ -13,6 +13,7 @@ namespace App.Models.Branchs
 
         [Column(TypeName = "nvarchar")]
         [StringLength(50)]
+        [MaxLength(50, ErrorMessage = "Tên Quá Dài")]
         [Required(ErrorMessage = "{0} Không Được Để Trống")]
         [Display(Name = "Tên Chi Nhánh")]
         public string BranchName { get; set; }

@@ -14,15 +14,16 @@ namespace App.Models.Bookings
         [Column(TypeName = "int")]
 
         [Required(ErrorMessage = "{0} Không Được Để Trống")]
-        [Range(1, 20, ErrorMessage = "Số Lượng Người Phải Từ 1 - 20")]
+        [Range(1, 200, ErrorMessage = "Số Lượng Người Phải Từ 1 - 200")]
         [Display(Name = "Số Lượng Người")]
         public int? ClientSlot { get; set; }
         [Required(ErrorMessage = "Phải Nhập Số Bàn")]
-        [Range(1, 20, ErrorMessage = "Số Lượng Bàn Phải Từ 1 - 20")]
+        [Range(1, 200, ErrorMessage = "Số Lượng Bàn Phải Từ 1 - 200")]
 
         [Display(Name = "Số Bàn")]
         public int? BookingSlot { get; set; }
         [Required(ErrorMessage = "Chi Nhánh Không Được Để Trống")]
+        [MaxLength(50, ErrorMessage = "Địa Chỉ Không Được Quá Dài")]
         [Display(Name = "Chi Nhánh")]
         public string Branch { get; set; }
 

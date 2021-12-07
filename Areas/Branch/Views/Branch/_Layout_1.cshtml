@@ -82,6 +82,19 @@
             }
 
         }
+        function checkDistance(input) {
+            if (input.value <= 0) {
+                alert("Không được dưới 1")
+                input.value = 1;
+            }
+            else if (input.value >= 100) {
+                input.value = 100;
+                alert(`Tối đa là ${input.value}`)
+
+
+            }
+
+        }
     </script>
 </body>
 

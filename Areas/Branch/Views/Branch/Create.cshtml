@@ -29,7 +29,7 @@
             </div>
             <div class="form-group">
                 <label asp-for="Distance" class="control-label"></label>
-                <input asp-for="Distance" class="form-control" />
+                <input onchange="checkDistance(this)" asp-for="Distance" class="form-control" />
                 <span asp-validation-for="Distance" class="text-danger"></span>
             </div>
             <div class="form-group">

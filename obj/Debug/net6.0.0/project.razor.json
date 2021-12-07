@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\Project-C#\\App\\App.csproj",
+  "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\App.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16298,433 +16298,433 @@
   "RootNamespace": "App",
   "Documents": [
     {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Branch\\Views\\Branch\\Index.cshtml",
-      "TargetPath": "Areas\\Branch\\Views\\Branch\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Shared\\_SearchPage.cshtml",
-      "TargetPath": "Views\\Shared\\_SearchPage.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Branch\\Views\\Branch\\Details.cshtml",
-      "TargetPath": "Areas\\Branch\\Views\\Branch\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Role\\Create.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Role\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Booking\\Views\\Booking\\_Layout_2.cshtml",
-      "TargetPath": "Areas\\Booking\\Views\\Booking\\_Layout_2.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Booking\\Views\\Booking\\SuccessBooking.cshtml",
-      "TargetPath": "Areas\\Booking\\Views\\Booking\\SuccessBooking.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Database\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Areas\\Database\\Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\User\\Index.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\User\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Shared\\_MenuManagePartial.cshtml",
-      "TargetPath": "Views\\Shared\\_MenuManagePartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\RegisterConfirmation.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Account\\RegisterConfirmation.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Users\\_Layout_2.cshtml",
-      "TargetPath": "Views\\Users\\_Layout_2.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Shared\\_RegisterLayout.cshtml",
-      "TargetPath": "Views\\Shared\\_RegisterLayout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\User\\SetPassword.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\User\\SetPassword.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Admin\\AdminPage.cshtml",
-      "TargetPath": "Views\\Admin\\AdminPage.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\SendCode.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Account\\SendCode.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Branch\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Areas\\Branch\\Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Booking\\Views\\Booking\\Create.cshtml",
-      "TargetPath": "Areas\\Booking\\Views\\Booking\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\ExternalLoginConfirmation.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Account\\ExternalLoginConfirmation.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\UseRecoveryCode.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Account\\UseRecoveryCode.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Users\\UserPage copy.cshtml",
-      "TargetPath": "Views\\Users\\UserPage copy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\ForgotPassword.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Account\\ForgotPassword.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\VerifyCode.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Account\\VerifyCode.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Shared\\_AlertMessage.cshtml",
-      "TargetPath": "Views\\Shared\\_AlertMessage.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\Login.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Account\\Login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Shared\\_StatusMessage.cshtml",
-      "TargetPath": "Views\\Shared\\_StatusMessage.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Users\\UserPage.cshtml",
-      "TargetPath": "Views\\Users\\UserPage.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Shared\\_PagingXTL.cshtml",
-      "TargetPath": "Views\\Shared\\_PagingXTL.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Users\\BookingUser.cshtml",
-      "TargetPath": "Views\\Users\\BookingUser.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Booking\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Areas\\Booking\\Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\Register.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Account\\Register.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Shared\\_LoginPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Role\\AddRoleClaim.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Role\\AddRoleClaim.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\AccessDenied.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Account\\AccessDenied.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Branch\\Views\\Branch\\Edit.cshtml",
-      "TargetPath": "Areas\\Branch\\Views\\Branch\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Booking\\Views\\Booking\\_Layout_1.cshtml",
-      "TargetPath": "Areas\\Booking\\Views\\Booking\\_Layout_1.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Manage\\Index.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Manage\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Role\\Edit.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Role\\Edit.cshtml",
       "TargetPath": "Areas\\Identity\\Views\\Role\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Shared\\_LogOutAdmin.cshtml",
-      "TargetPath": "Views\\Shared\\_LogOutAdmin.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Shared\\_StatusMessage.cshtml",
+      "TargetPath": "Views\\Shared\\_StatusMessage.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Manage\\ChangePassword.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Manage\\ChangePassword.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Role\\Index.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Role\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Manage\\DisplayRecoveryCodes.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Manage\\DisplayRecoveryCodes.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Manage\\Error.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Manage\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Manage\\VerifyPhoneNumber.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Manage\\VerifyPhoneNumber.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\ResetPasswordConfirmation.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Account\\ResetPasswordConfirmation.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Login\\LoginPage.cshtml",
-      "TargetPath": "Views\\Login\\LoginPage.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\ResetPassword.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Account\\ResetPassword.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Shared\\_Layout_1.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout_1.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Booking\\Views\\Booking\\BookingUser.cshtml",
-      "TargetPath": "Areas\\Booking\\Views\\Booking\\BookingUser.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Manage\\SetPassword.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Manage\\SetPassword.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\Error.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Account\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Branch\\Views\\Branch\\Delete.cshtml",
-      "TargetPath": "Areas\\Branch\\Views\\Branch\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Manage\\EditProfile.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Manage\\EditProfile.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\User\\AddRole.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\User\\AddRole.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Database\\Views\\DbManage\\Index.cshtml",
-      "TargetPath": "Areas\\Database\\Views\\DbManage\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\ForgotPasswordConfirmation.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Account\\ForgotPasswordConfirmation.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Users\\SuccessBooking.cshtml",
-      "TargetPath": "Views\\Users\\SuccessBooking.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\ConfirmEmail.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Account\\ConfirmEmail.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\Lockout.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Account\\Lockout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\ErrorConfirmEmail.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Account\\ErrorConfirmEmail.cshtml",
       "TargetPath": "Areas\\Identity\\Views\\Account\\ErrorConfirmEmail.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Manage\\AddPhoneNumber.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Manage\\AddPhoneNumber.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Branch\\Views\\Branch\\_Layout_1.cshtml",
-      "TargetPath": "Areas\\Branch\\Views\\Branch\\_Layout_1.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Shared\\_MenuManagePartial.cshtml",
+      "TargetPath": "Views\\Shared\\_MenuManagePartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Manage\\ManageLogins.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Account\\ExternalLoginFailure.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Account\\ExternalLoginFailure.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Manage\\ManageLogins.cshtml",
       "TargetPath": "Areas\\Identity\\Views\\Manage\\ManageLogins.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Booking\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Booking\\Views\\_ViewImports.cshtml",
       "TargetPath": "Areas\\Booking\\Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Shared\\_ListUser.cshtml",
-      "TargetPath": "Views\\Shared\\_ListUser.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\VerifyAuthenticatorCode.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Account\\VerifyAuthenticatorCode.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Booking\\Views\\Booking\\Edit.cshtml",
-      "TargetPath": "Areas\\Booking\\Views\\Booking\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\User\\AddClaim.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\User\\AddClaim.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Booking\\Views\\Booking\\Index.cshtml",
-      "TargetPath": "Areas\\Booking\\Views\\Booking\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Branch\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Areas\\Branch\\Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Role\\Delete.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Role\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Booking\\Views\\Booking\\Details.cshtml",
-      "TargetPath": "Areas\\Booking\\Views\\Booking\\Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Branch\\Views\\Branch\\Create.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Branch\\Views\\Branch\\Create.cshtml",
       "TargetPath": "Areas\\Branch\\Views\\Branch\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Database\\Views\\DbManage\\DeleteDb.cshtml",
-      "TargetPath": "Areas\\Database\\Views\\DbManage\\DeleteDb.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Manage\\Error.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Manage\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Project-C#\\App\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Branch\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Branch\\Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Database\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Login\\LoginPage.cshtml",
+      "TargetPath": "Views\\Login\\LoginPage.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Shared\\_AlertMessage.cshtml",
+      "TargetPath": "Views\\Shared\\_AlertMessage.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Manage\\VerifyPhoneNumber.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Manage\\VerifyPhoneNumber.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Role\\Delete.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Role\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Manage\\DisplayRecoveryCodes.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Manage\\DisplayRecoveryCodes.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Branch\\Views\\Branch\\Edit.cshtml",
+      "TargetPath": "Areas\\Branch\\Views\\Branch\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Users\\_Layout_2.cshtml",
+      "TargetPath": "Views\\Users\\_Layout_2.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Account\\Lockout.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Account\\Lockout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Database\\Views\\_ViewImports.cshtml",
       "TargetPath": "Areas\\Database\\Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Booking\\Views\\Booking\\Delete.cshtml",
-      "TargetPath": "Areas\\Booking\\Views\\Booking\\Delete.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Account\\ResetPassword.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Account\\ResetPassword.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\_ViewStart.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Role\\EditRoleClaim.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Role\\EditRoleClaim.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Account\\VerifyCode.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Account\\VerifyCode.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Project-C#\\App\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Booking\\Views\\Booking\\_Layout_1.cshtml",
+      "TargetPath": "Areas\\Booking\\Views\\Booking\\_Layout_1.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Booking\\Views\\Booking\\Edit.cshtml",
+      "TargetPath": "Areas\\Booking\\Views\\Booking\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Users\\UserPage.cshtml",
+      "TargetPath": "Views\\Users\\UserPage.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Account\\ExternalLoginConfirmation.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Account\\ExternalLoginConfirmation.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Account\\ConfirmEmail.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Account\\ConfirmEmail.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\User\\AddClaim.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\User\\AddClaim.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Shared\\_SearchPage.cshtml",
+      "TargetPath": "Views\\Shared\\_SearchPage.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Project-C#\\App\\Areas\\Identity\\Views\\Account\\ExternalLoginFailure.cshtml",
-      "TargetPath": "Areas\\Identity\\Views\\Account\\ExternalLoginFailure.cshtml",
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Role\\EditRoleClaim.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Role\\EditRoleClaim.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\User\\Index.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\User\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Manage\\AddPhoneNumber.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Manage\\AddPhoneNumber.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Shared\\_RegisterLayout.cshtml",
+      "TargetPath": "Views\\Shared\\_RegisterLayout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Booking\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Booking\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Branch\\Views\\Branch\\Delete.cshtml",
+      "TargetPath": "Areas\\Branch\\Views\\Branch\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Role\\AddRoleClaim.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Role\\AddRoleClaim.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Database\\Views\\DbManage\\DeleteDb.cshtml",
+      "TargetPath": "Areas\\Database\\Views\\DbManage\\DeleteDb.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Booking\\Views\\Booking\\BookingUser.cshtml",
+      "TargetPath": "Areas\\Booking\\Views\\Booking\\BookingUser.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Manage\\EditProfile.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Manage\\EditProfile.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Account\\VerifyAuthenticatorCode.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Account\\VerifyAuthenticatorCode.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Manage\\SetPassword.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Manage\\SetPassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Shared\\_ListUser.cshtml",
+      "TargetPath": "Views\\Shared\\_ListUser.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Account\\RegisterConfirmation.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Account\\RegisterConfirmation.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Role\\Create.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Role\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Branch\\Views\\Branch\\Index.cshtml",
+      "TargetPath": "Areas\\Branch\\Views\\Branch\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Shared\\_Layout_1.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout_1.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\User\\AddRole.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\User\\AddRole.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Account\\ForgotPasswordConfirmation.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Account\\ForgotPasswordConfirmation.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Booking\\Views\\Booking\\Delete.cshtml",
+      "TargetPath": "Areas\\Booking\\Views\\Booking\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Account\\Error.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Account\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Database\\Views\\DbManage\\Index.cshtml",
+      "TargetPath": "Areas\\Database\\Views\\DbManage\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Booking\\Views\\Booking\\Create.cshtml",
+      "TargetPath": "Areas\\Booking\\Views\\Booking\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Booking\\Views\\Booking\\SuccessBooking.cshtml",
+      "TargetPath": "Areas\\Booking\\Views\\Booking\\SuccessBooking.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Users\\BookingUser.cshtml",
+      "TargetPath": "Views\\Users\\BookingUser.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Branch\\Views\\Branch\\Details.cshtml",
+      "TargetPath": "Areas\\Branch\\Views\\Branch\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Shared\\_LogOutAdmin.cshtml",
+      "TargetPath": "Views\\Shared\\_LogOutAdmin.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\User\\SetPassword.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\User\\SetPassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Account\\Login.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Database\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Database\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Account\\Register.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Role\\Index.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Role\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Account\\AccessDenied.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Account\\AccessDenied.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Account\\SendCode.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Account\\SendCode.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Booking\\Views\\Booking\\_Layout_2.cshtml",
+      "TargetPath": "Areas\\Booking\\Views\\Booking\\_Layout_2.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Shared\\_PagingXTL.cshtml",
+      "TargetPath": "Views\\Shared\\_PagingXTL.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Manage\\ChangePassword.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Manage\\ChangePassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Branch\\Views\\Branch\\_Layout_1.cshtml",
+      "TargetPath": "Areas\\Branch\\Views\\Branch\\_Layout_1.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Users\\UserPage copy.cshtml",
+      "TargetPath": "Views\\Users\\UserPage copy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Admin\\AdminPage.cshtml",
+      "TargetPath": "Views\\Admin\\AdminPage.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Account\\ForgotPassword.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Account\\ForgotPassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Booking\\Views\\Booking\\Index.cshtml",
+      "TargetPath": "Areas\\Booking\\Views\\Booking\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Booking\\Views\\Booking\\Details.cshtml",
+      "TargetPath": "Areas\\Booking\\Views\\Booking\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Users\\SuccessBooking.cshtml",
+      "TargetPath": "Views\\Users\\SuccessBooking.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Manage\\Index.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Manage\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Account\\ResetPasswordConfirmation.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Account\\ResetPasswordConfirmation.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Branch\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Branch\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cabeo\\Desktop\\App\\Areas\\Identity\\Views\\Account\\UseRecoveryCode.cshtml",
+      "TargetPath": "Areas\\Identity\\Views\\Account\\UseRecoveryCode.cshtml",
       "FileKind": "mvc"
     }
   ],

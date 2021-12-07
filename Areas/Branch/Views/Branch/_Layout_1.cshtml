@@ -14,34 +14,36 @@
 
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-dark bg-dark">
             <div class="container">
                 @* <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">MockProject</a> *@
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse"
                     aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Admin" asp-action="Index">Home</a>
+                <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+                    <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+                        <li class="nav-item active">
+                            <a class="nav-link " asp-area="" asp-controller="Admin" asp-action="Index">Admin
+                                Dashboard</a>
                         </li>
 
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="Database" asp-controller="DbManage"
-                                asp-action="Index">Db Manage</a>
+                        <li class="nav-item active">
+                            <a class="nav-link " asp-area="Database" asp-controller="DbManage" asp-action="Index">DB
+                                Manage</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="Branch" asp-controller="Branch"
-                                asp-action="Index">DS Chi Nhánh</a>
+                        <li class="nav-item active">
+                            <a class="nav-link " asp-area="Branch" asp-controller="Branch" asp-action="Index">Branch
+                                List</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="Booking" asp-controller="Booking"
-                                asp-action="Index">DS Booking</a>
+                        <li class="nav-item active">
+                            <a class="nav-link " asp-area="Booking" asp-controller="Booking" asp-action="Index">Booking
+                                List</a>
                         </li>
                     </ul>
                 </div>
             </div>
+            <br>
         </nav>
     </header>
     <div class="container">

@@ -9882,7 +9882,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -9890,7 +9890,7 @@
       },
       "frameworks": {
         "net6.0": {
-          "targetAlias": "net6.0.0",
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -9902,7 +9902,7 @@
     },
     "frameworks": {
       "net6.0": {
-        "targetAlias": "net6.0.0",
+        "targetAlias": "net6.0",
         "dependencies": {
           "MailKit": {
             "target": "Package",

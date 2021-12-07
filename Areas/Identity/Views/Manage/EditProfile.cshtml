@@ -1,25 +1,15 @@
 @model EditExtraProfileModel
 @{
 
-
-
-
-
-
-
     ViewData["Title"] = "Information Profile";
 }
-
-
 
 <head>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
 </head>
 <h4 class="title-text">@ViewData["Title"]</h4>
-
 <partial name="_StatusMessage" />
-
 <div class="row">
     <div class="col-md-6">
         <form id="profile-form" method="post">
@@ -42,7 +32,7 @@
             <br />
             <div class="form-group display-edit">
                 <label asp-for="HomeAdress"></label>
-                <textarea asp-for="HomeAdress" class="form-control"></textarea>
+                <textarea maxlength="60" asp-for="HomeAdress" class="form-control"></textarea>
                 <span asp-validation-for="HomeAdress" class="text-danger"></span>
             </div>
             <br />
@@ -57,7 +47,6 @@
         </form>
     </div>
 </div>
-
 @section Scripts {
 <partial name="_ValidationScriptsPartial" />
 }

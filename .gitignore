@@ -11,7 +11,7 @@
 *.code-workspace
 ./bin/
 ./bin/Debug/
-./bin/Debug/net6.0.0/
+./bin/Debug/net6.0/
 ./obj/
 ./obj/Debug/
 ./obj/Debug/staticwebassets.pack.sentinel

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HANX0b75nv9C5io7TBGTbCxUB8GXb8Ji4+9+2UlbwJ4=",
+  "Hash": "8KpJEyqRM6e+T2iVa7qYEac4x4uCIMlRYfwGjn5D6ds=",
   "Source": "App",
   "BasePath": "_content/App",
   "Mode": "Default",
@@ -2157,6 +2157,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\index.js"
+    },
+    {
+      "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\js\\main.js",
+      "SourceId": "App",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\",
+      "BasePath": "_content/App",
+      "RelativePath": "js/main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
       "Identity": "C:\\Users\\cabeo\\Desktop\\App\\wwwroot\\js\\script.js",

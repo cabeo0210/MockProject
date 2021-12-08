@@ -16,6 +16,7 @@ using App.Repository.IBooking;
 using App.Repository.IBranch;
 using App.Repository.IBookingRepository;
 using App.Repository.IBranchRepository;
+using Microsoft.AspNetCore.Mvc;
 
 namespace App
 {
@@ -31,6 +32,7 @@ namespace App
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+
             services.AddOptions();
             var mailsetting = Configuration.GetSection("MailSettings");
             services.Configure<MailSettings>(mailsetting);

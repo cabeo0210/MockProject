@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "N/MpPmM80z9CQPlxEKSAqXCNBwpWwTd+OdQl9i41sq5TecRuYNwYYkbgi/ns1xFm2tHxgHCCrRTgQL7P71MdVQ==",
+  "dgSpecHash": "/Lu6NVKcCK7/jTZfrRC5ZStVFPGCRmPdsxQJxUAk+a9IsVXr/fAmPxEoQCLp+mVIPTdAr+iW5pZI030EpxvgAQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\cabeo\\Desktop\\App\\App.csproj",
   "expectedPackageFiles": [
@@ -26,6 +26,7 @@
     "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.authentication.oauth\\2.2.0\\microsoft.aspnetcore.authentication.oauth.2.2.0.nupkg.sha512",
     "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\6.0.0\\microsoft.aspnetcore.authentication.openidconnect.6.0.0.nupkg.sha512",
     "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.authentication.twitter\\6.0.0\\microsoft.aspnetcore.authentication.twitter.6.0.0.nupkg.sha512",
+    "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.0\\microsoft.aspnetcore.cryptography.internal.6.0.0.nupkg.sha512",
     "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.0\\microsoft.aspnetcore.cryptography.keyderivation.6.0.0.nupkg.sha512",
     "C:\\Users\\cabeo\\.nuget\\packages\\microsoft.aspnetcore.dataprotection\\2.2.0\\microsoft.aspnetcore.dataprotection.2.2.0.nupkg.sha512",
